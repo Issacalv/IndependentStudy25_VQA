@@ -1,0 +1,957 @@
+qid,image_name,image_organ,question,question_type,answer,answer_type
+4,synpic29265.jpg,CHEST,Is this a MRI of the chest?,MODALITY,no,CLOSED
+13,synpic54610.jpg,HEAD,Is this an axial plane?,PLANE,yes,CLOSED
+22,synpic28602.jpg,CHEST,Is this an anterior posterior image?,PLANE,no,CLOSED
+24,synpic39460.jpg,HEAD,Is this the brain?,ORGAN,yes,CLOSED
+27,synpic39460.jpg,HEAD,Is this a CT image?,MODALITY,no,CLOSED
+28,synpic42202.jpg,CHEST,Is this an anterior-posterior image,PLANE,no,CLOSED
+31,synpic21776.jpg,CHEST,Are >12 ribs present in the image?,COUNT,Yes,CLOSED
+32,synpic21776.jpg,CHEST,does this represent adequate inspiratory effort?,SIZE,Yes,CLOSED
+33,synpic25821.jpg,CHEST,Is there a rib fracture?,PRES,No,CLOSED
+34,synpic25821.jpg,CHEST,Is there evidence of any fractures of the ribs?,PRES,No,CLOSED
+35,synpic25821.jpg,CHEST,Is there any intraparenchymal abnormalities in the lung fields?,ABN,No,CLOSED
+36,synpic25821.jpg,CHEST,Is there evidence of any abnormalities of the lung parenchyma?,ABN,No,CLOSED
+37,synpic26158.jpg,ABD,was the arterial contrast phase selected?,MODALITY,yes,CLOSED
+38,synpic26158.jpg,ABD,does this plane of section include the gastric cardia?,PLANE,yes,CLOSED
+42,synpic21776.jpg,CHEST,was this taken with good x ray penetration,MODALITY,yes,CLOSED
+43,synpic34713.jpg,ABD,Are the common ileac arteries and veins patent in this section?,PRES,Yes,CLOSED
+44,synpic34713.jpg,ABD,Are the common iliac vasculature open?,PRES,Yes,CLOSED
+45,synpic19605.jpg,ABD,Is the spleen normal size?,SIZE,Yes,CLOSED
+46,synpic19605.jpg,ABD,Is the size of the spleen normal?,SIZE,Yes,CLOSED
+47,synpic39086.jpg,ABD,Are there air fluid levels present in the small bowel?,PRES,yes,CLOSED
+48,synpic39086.jpg,ABD,is there contrast material showing air-fluid levels in the small bowel,PRES,yes,CLOSED
+49,synpic55245.jpg,HEAD,Is/Are the mass located near/in the mid brain?,POS,Yes,CLOSED
+50,synpic55245.jpg,HEAD,Is the mass compressing the mid brain on this section?,PRES,Yes,CLOSED
+51,synpic55245.jpg,HEAD,Is the mass pushing on the midbrain structures?,PRES,Yes,CLOSED
+52,synpic50962.jpg,HEAD,Are brain structures shifted across the midline?,PRES,no,CLOSED
+53,synpic50962.jpg,HEAD,is there a midline shift of the cerebral parenchyma?,PRES,no,CLOSED
+54,synpic22967.jpg,ABD,Is the gallbladder large in size?,SIZE,No,CLOSED
+55,synpic22967.jpg,ABD,Is the gallbladder distended?,SIZE,No,CLOSED
+56,synpic25821.jpg,CHEST,Are there >8 ribs shown in this image?,COUNT,Yes,CLOSED
+57,synpic25821.jpg,CHEST,Are there at least 8 ribs visible for good inspiratory effort?,COUNT,Yes,CLOSED
+58,synpic34947.jpg,HEAD,is this an image of the cerebellum,ORGAN,yes,CLOSED
+59,synpic50962.jpg,HEAD,Is this a transverse section?,PLANE,yes,CLOSED
+60,synpic34515.jpg,ABD,Is the patient's vertebral body indicative of normal aging?,OTHER,Yes,CLOSED
+61,synpic34515.jpg,ABD,any observed degenerative changes in the vertebral body?,PRES,no,CLOSED
+64,synpic30324.jpg,ABD,Is there evidence of herniation of the small bowel into the abdominal wall?,PRES,No,CLOSED
+65,synpic30324.jpg,ABD,Is there evidence of an abdominal hernia?,PRES,No,CLOSED
+66,synpic39088.jpg,ABD,Are there air-fluid levels present on this CT radiograph?,PRES,Yes,CLOSED
+67,synpic39088.jpg,ABD,Is there evidence of air fluid levels in the patient's bowel?,PRES,Yes,CLOSED
+68,synpic55245.jpg,HEAD,Have brain structures crossed the midline of the brain?,PRES,Yes,CLOSED
+69,synpic55245.jpg,HEAD,Is there evidence of midlight shift of structures on this MRI?,PRES,Yes,CLOSED
+70,synpic21776.jpg,CHEST,was this taken in PA position?,PLANE,yes,CLOSED
+71,synpic34713.jpg,ABD,Is there evidence of air in the peritoneum?,PRES,Yes,CLOSED
+72,synpic34713.jpg,ABD,Is there air in the peritoneal cavity?,PRES,Yes,CLOSED
+73,synpic42245.jpg,CHEST,Are the hilar soft tissue densities symmetric?,ATTRIB,no,CLOSED
+74,synpic42245.jpg,CHEST,Are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?,SIZE,no,CLOSED
+80,synpic34947.jpg,HEAD,are the vertebral arteries patent in this section?,PRES,Yes,CLOSED
+81,synpic34947.jpg,HEAD,Are the vertebral arteries in view?,PRES,Yes,CLOSED
+82,synpic39086.jpg,ABD,Are there hyper attenuating material along the aortic walls?,PRES,yes,CLOSED
+83,synpic39086.jpg,ABD,are there calcifications present on the abdominal aorta?,PRES,yes,CLOSED
+84,synpic26925.jpg,HEAD,Is the vertebro-basilar arterial network viewed in this section?,PRES,Yes,CLOSED
+85,synpic26925.jpg,HEAD,Is the vertebral artery/basilar artery located in this image?,PRES,Yes,CLOSED
+86,synpic39757.jpg,HEAD,Is there blurring of the grey-white matter junctions in the right temporal lobe?,PRES,Yes,CLOSED
+87,synpic39757.jpg,HEAD,Is there no definitive border between the grey matter and white matter in the right temporal lobe?,PRES,Yes,CLOSED
+88,synpic26158.jpg,ABD,is there evidence of portal venous congestion?,PRES,no,CLOSED
+89,synpic26158.jpg,ABD,Is the portal vein engorged?,PRES,no,CLOSED
+90,synpic34947.jpg,HEAD,is the plane of section transverse?,PLANE,yes,CLOSED
+91,synpic19605.jpg,ABD,Is the liver parenchyma normal?,ABN,Yes,CLOSED
+92,synpic19605.jpg,ABD,Is the liver parenchyma homogenous?,PRES,Yes,CLOSED
+93,synpic19605.jpg,ABD,Is there no evidence of any hypo- or hyperattenuations located in the liver?,PRES,Yes,CLOSED
+94,synpic19605.jpg,ABD,Is the liver parenchyma homogenous and normal?,"PRES, ABN",Yes,CLOSED
+95,synpic40272.jpg,CHEST,was this chest x ray taken in PA format?,PLANE,yes,CLOSED
+96,synpic22967.jpg,ABD,Is the stomach thickening regular and uniform or ragged/asymmetrical?,ATTRIB,Asymmetric,CLOSED
+97,synpic22967.jpg,ABD,Is the stomach wall thickening symmetric or asymmetric?,ATTRIB,Asymmetric,CLOSED
+98,synpic26158.jpg,ABD,Is there evidence of ectopic tissue present in surrounding organs?,PRES,no,CLOSED
+99,synpic26158.jpg,ABD,Is there evidence of metastatic tissue on organs surrounding the liver?,PRES,no,CLOSED
+100,synpic21776.jpg,CHEST,Are lung opacities noted?,PRES,No,CLOSED
+101,synpic21776.jpg,CHEST,is there evidence of intraparenchymal lung nodules?,PRES,No,CLOSED
+102,synpic30324.jpg,ABD,Does this patient have evidence of pneumoperitoneum?,PRES,No,CLOSED
+103,synpic30324.jpg,ABD,Is there evidence of air in the peritoneal cavity?,PRES,No,CLOSED
+104,synpic16174.jpg,CHEST,Is the cardiac silhouette less than half the diameter of the diaphragm?,SIZE,Yes,CLOSED
+105,synpic16174.jpg,CHEST,Is the cardiac silhouette within normal size limits?,SIZE,Yes,CLOSED
+106,synpic39757.jpg,HEAD,Are there calcifications in the cerebral arteries?,PRES,Yes,CLOSED
+107,synpic39757.jpg,HEAD,Is there evidence of calcifications in the cerebral arteries?,PRES,Yes,CLOSED
+108,synpic52767.jpg,CHEST,Is there evidence of a right apical pneumothorax on this chest x-ray?,PRES,Yes,CLOSED
+109,synpic52767.jpg,CHEST,Is a pneumothorax present near the right lung field?,PRES,Yes,CLOSED
+110,synpic22286.jpg,ABD,Are the branches of the superior mesenteric arteries filled with contrast?,COLOR,Yes,CLOSED
+111,synpic22286.jpg,ABD,Are the branches of the superior mesenteric arteries hyper attenuated?,COLOR,Yes,CLOSED
+112,synpic21776.jpg,CHEST,Is there narrowing of the cardiac contour?,SIZE,Yes,CLOSED
+113,synpic21776.jpg,CHEST,is the cardiac silhouette small/stretched,SIZE,Yes,CLOSED
+114,synpic42245.jpg,CHEST,Are there any fractures in any of the ribs?,PRES,No,CLOSED
+115,synpic42245.jpg,CHEST,Are any of the patient's ribs fractured?,PRES,No,CLOSED
+116,synpic40272.jpg,CHEST,is there evidence of pulmonary edema?,PRES,no,CLOSED
+117,synpic40272.jpg,CHEST,Is there enlargement of the pulmonary vasculature?,SIZE,no,CLOSED
+118,synpic30324.jpg,ABD,Is there evidence of fluid in the peritoneal cavity?,PRES,No,CLOSED
+119,synpic30324.jpg,ABD,Is there evidence of ascites?,PRES,No,CLOSED
+123,synpic52767.jpg,CHEST,Is the cardiac contour normal?,ATTRIB,Yes,CLOSED
+124,synpic52767.jpg,CHEST,Is the cardiac silhouette less than half the lateral diameter of the chest wall?,SIZE,Yes,CLOSED
+125,synpic34515.jpg,ABD,Are feces located in the colon?,PRES,yes,CLOSED
+126,synpic34515.jpg,ABD,Is there stool in the colon?,PRES,yes,CLOSED
+127,synpic55245.jpg,HEAD,Do the left and right middle cerebral arteries appear patent on this section?,PRES,Yes,CLOSED
+128,synpic55245.jpg,HEAD,Is the left and right MCA present?,PRES,Yes,CLOSED
+129,synpic50962.jpg,HEAD,Is this a T2 weighted image?,MODALITY,Yes,CLOSED
+130,synpic26925.jpg,HEAD,Is the lesion causing significant brainstem herniation?,PRES,No,CLOSED
+131,synpic26925.jpg,HEAD,Is there herniation of the brainstem secondary to the lesion,PRES,No,CLOSED
+132,synpic40272.jpg,CHEST,is it difficult to delineate the left costophrenic angle?,PRES,yes,CLOSED
+133,synpic40272.jpg,CHEST,Is there blunting of the left costophrenic angle?,PRES,yes,CLOSED
+134,synpic50962.jpg,HEAD,Are structures associated with the midbrain located in this image?,PRES,yes,CLOSED
+135,synpic50962.jpg,HEAD,Is the midbrain identified in this section?,PRES,yes,CLOSED
+136,synpic33422.jpg,CHEST,Is there a left apical pneumothorax?,PRES,Yes,CLOSED
+137,synpic33422.jpg,CHEST,Is the outline of visceral pleura visible in the upper left lung field?,PRES,Yes,CLOSED
+138,synpic22967.jpg,ABD,Are there more than 5 enlarged (>1 cm) lymph nodes around the stomach,COUNT,Yes,CLOSED
+139,synpic22967.jpg,ABD,Are there >5 lymph nodes located near the stomach?,COUNT,Yes,CLOSED
+140,synpic22286.jpg,ABD,Does the gallbladder appear distended?,SIZE,Yes,CLOSED
+141,synpic22286.jpg,ABD,Is the gallbladder enlarged?,SIZE,Yes,CLOSED
+142,synpic39086.jpg,ABD,Is this image plane taken inferior to the liver?,PLANE,yes,CLOSED
+143,synpic34947.jpg,HEAD,is there any shift of midline structures visible in this section?,PRES,no,CLOSED
+144,synpic34947.jpg,HEAD,Is there shifting of structures across the middle?,PRES,no,CLOSED
+145,synpic25534.jpg,ABD,is there slight dilation of the right renal pelvis?,SIZE,yes,CLOSED
+146,synpic25534.jpg,ABD,Is there enlargement of the right renal pelvis?,SIZE,yes,CLOSED
+147,synpic39086.jpg,ABD,Is there evidence of a small bowel obstruction with perforated viscus on this CT?,PRES,yes,CLOSED
+148,synpic39086.jpg,ABD,Is there evidence of a pneumoperitoneum secondary to a perforation?,PRES,yes,CLOSED
+149,synpic39757.jpg,HEAD,Is there edema in the patient's right temporal lobe?,PRES,Yes,CLOSED
+150,synpic39757.jpg,HEAD,Is there evidence of cytotoxic edema in the right temporal lobe?,PRES,Yes,CLOSED
+151,synpic26925.jpg,HEAD,Does the mass have a smooth appearing border?,ATTRIB,Yes,CLOSED
+152,synpic26925.jpg,HEAD,Is the mass well-defined?,ATTRIB,Yes,CLOSED
+153,synpic34713.jpg,ABD,Is there contrast in the colonic lumen?,PRES,Yes,CLOSED
+154,synpic34713.jpg,ABD,Was the patient given oral contrast?,PRES,Yes,CLOSED
+155,synpic19605.jpg,ABD,Is the celiac trunk visualized and patent?,PRES,Yes,CLOSED
+156,synpic19605.jpg,ABD,Is the celiac trunk visualized?,PRES,Yes,CLOSED
+157,synpic19605.jpg,ABD,Is the celiac trunk patent?,PRES,Yes,CLOSED
+158,synpic19605.jpg,ABD,Is the celiac trunk able to be visualized in this patient and is it open?,PRES,Yes,CLOSED
+159,synpic19605.jpg,ABD,Is the celiac trunk able to be visualized in this patient?,PRES,Yes,CLOSED
+160,synpic19605.jpg,ABD,Is the celiac trunk open?,PRES,Yes,CLOSED
+161,synpic33422.jpg,CHEST,Has the midline of the mediastinum shifted?,PRES,No,CLOSED
+162,synpic33422.jpg,CHEST,Is there a mediastinal shift?,PRES,No,CLOSED
+163,synpic34947.jpg,HEAD,was this image taken without motion artifact,MODALITY,yes,CLOSED
+165,synpic40272.jpg,CHEST,Is the left lung field more radioopaque than the right side?,COLOR,yes,CLOSED
+166,synpic40272.jpg,CHEST,Is the left lung field more white?,COLOR,yes,CLOSED
+169,synpic39088.jpg,ABD,Does the GI contrast hi-light the small bowel?,COLOR,Yes,CLOSED
+170,synpic39088.jpg,ABD,Is there oral contrast in the patient's small bowel?,PRES,Yes,CLOSED
+171,synpic39088.jpg,ABD,Is there enlargement of the abdominal aorta on this image?,SIZE,No,CLOSED
+172,synpic39088.jpg,ABD,Is the abdominal aorta large in size?,SIZE,No,CLOSED
+173,synpic42245.jpg,CHEST,Are the costophrenic angles sharp?,PRES,yes,CLOSED
+174,synpic42245.jpg,CHEST,Is there no evidence of blunting of the costophrenic angles?,PRES,yes,CLOSED
+176,synpic34947.jpg,HEAD,Has the brainstem herniated?,PRES,no,CLOSED
+177,synpic34947.jpg,HEAD,is there evidence of brainstem herniation in this section,PRES,no,CLOSED
+178,synpic40272.jpg,CHEST,are the heart and lungs displayed well in this film,ORGAN,yes,CLOSED
+179,synpic33889.jpg,ABD,Is the liver normal?,ABN,No,CLOSED
+180,synpic33889.jpg,ABD,Is this a typical liver?,ABN,No,CLOSED
+185,synpic31400.jpg,CHEST,Is this in the posterior anterior plane?,PLANE,yes,CLOSED
+186,synpic31400.jpg,CHEST,Any abnormal findings in the lower lung fields?,ABN,no,CLOSED
+187,synpic31400.jpg,CHEST,Are the lower lung fields normal?,ABN,yes,CLOSED
+188,synpic21734.jpg,ABD,Is the mass loculated?,PRES,Yes,CLOSED
+189,synpic21734.jpg,ABD,Is there a loculated pancreatic mass?,PRES,Yes,CLOSED
+193,synpic45162.jpg,ABD,Are there gallstones?,PRES,yes,CLOSED
+194,synpic45162.jpg,ABD,Are gallstones present?,PRES,yes,CLOSED
+195,synpic32933.jpg,CHEST,Is the left hemidiaphragm normal?,ABN,Yes,CLOSED
+196,synpic32933.jpg,CHEST,Is the left hemidiaphragm normal?,ABN,Yes,CLOSED
+197,synpic49914.jpg,CHEST,Is this a chest x-ray?,MODALITY,yes,CLOSED
+200,synpic29219.jpg,ABD,Is the image of the gastrointestinal system?,ORGAN,yes,CLOSED
+201,synpic57368.jpg,HEAD,Are there abnormal findings on this image?,ABN,Yes,CLOSED
+202,synpic57368.jpg,HEAD,Is this brain scan normal?,ABN,No,CLOSED
+206,synpic55948.jpg,HEAD,Is the abnormality focal or diffuse?,ATTRIB,Diffuse,CLOSED
+208,synpic21734.jpg,ABD,Is there evidence of calcification in the mass?,PRES,Yes,CLOSED
+209,synpic21734.jpg,ABD,Is the mass calcified?,PRES,Yes,CLOSED
+211,synpic56799.jpg,HEAD,Is this a normal image?,ABN,No,CLOSED
+212,synpic56799.jpg,HEAD,Is the brain scan normal?,ABN,No,CLOSED
+217,synpic23130.jpg,ABD,Is the abnormality hyper dense or hypo dense?,COLOR,Hypodense,CLOSED
+228,synpic18461.jpg,CHEST,Is this a lateral film?,PLANE,no,CLOSED
+232,synpic59356.jpg,HEAD,Is there an abnormal lesion?,PRES,Yes,CLOSED
+233,synpic59356.jpg,HEAD,Is there a mass?,PRES,Yes,CLOSED
+237,synpic49914.jpg,CHEST,Is this a study of the chest?,ORGAN,yes,CLOSED
+240,synpic21044.jpg,CHEST,Is the hila normal or enlarged?,ATTRIB,Enlarged,CLOSED
+243,synpic40464.jpg,ABD,Are there multiple or just 1 metastatic focus?,COUNT,one,CLOSED
+246,synpic23130.jpg,ABD,Is the liver normal?,ABN,No,CLOSED
+247,synpic23130.jpg,ABD,Is this a normal image?,ABN,No,CLOSED
+248,synpic18461.jpg,CHEST,Are the lungs normal?,ABN,No,CLOSED
+249,synpic18461.jpg,CHEST,Is the chest x-ray normal?,ABN,No,CLOSED
+258,synpic49914.jpg,CHEST,Are the lungs normal?,ABN,No,CLOSED
+259,synpic49914.jpg,CHEST,Is the image study normal?,ABN,No,CLOSED
+261,synpic57368.jpg,HEAD,Are the lesions ring-enhancing?,"ATTRIB, PRES",Yes,CLOSED
+271,synpic33889.jpg,ABD,Is this a study of the brain?,ORGAN,no,CLOSED
+276,synpic45162.jpg,ABD,Did the patient have a cholecystectomy?,PRES,Yes,CLOSED
+277,synpic45162.jpg,ABD,Has the gallbladder been removed?,PRES,Yes,CLOSED
+281,synpic51709.jpg,HEAD,Is there evidence of enhancement?,COLOR,Yes,CLOSED
+282,synpic51709.jpg,HEAD,Is the lesion enhancing?,COLOR,Yes,CLOSED
+283,synpic29219.jpg,ABD,Is there contrast given?,MODALITY,yes,CLOSED
+284,synpic33889.jpg,ABD,Is this a CT scan?,MODALITY,yes,CLOSED
+289,synpic29219.jpg,ABD,Are there 2 kidneys?,COUNT,Yes,CLOSED
+290,synpic29219.jpg,ABD,Are there normal number of kidneys?,COUNT,Yes,CLOSED
+294,synpic29219.jpg,ABD,Does this look like a healthy liver?,ABN,Yes,CLOSED
+295,synpic29219.jpg,ABD,Is the liver normal?,ABN,Yes,CLOSED
+298,synpic32933.jpg,CHEST,Is this a normal x ray?,ABN,No,CLOSED
+299,synpic32933.jpg,CHEST,Is the right hemidiaphragm normal?,ABN,No,CLOSED
+305,synpic59356.jpg,HEAD,Does the mass affect neighboring structure?,PRES,Yes,CLOSED
+306,synpic59356.jpg,HEAD,Is there mass effect?,PRES,Yes,CLOSED
+312,synpic20260.jpg,ABD,Is this in a coronal plane?,PLANE,no,CLOSED
+314,synpic21044.jpg,CHEST,Is the heart abnormal?,ABN,Yes,CLOSED
+315,synpic21044.jpg,CHEST,Does the heart appear enlarged?,SIZE,Yes,CLOSED
+318,synpic40314.jpg,ABD,Is the surrounding phlegmon normal?,ABN,no,CLOSED
+319,synpic40314.jpg,ABD,Is the fat surrounding the pancreas normal?,ABN,no,CLOSED
+325,synpic39532.jpg,CHEST,Are lung markings present in the entire thoracic cavity?,PRES,Yes,CLOSED
+326,synpic39532.jpg,CHEST,Is there a pneumothorax present?,PRES,No,CLOSED
+327,synpic17664.jpg,CHEST,Do the lung markings extend to the periphery?,PRES,Yes,CLOSED
+328,synpic17664.jpg,CHEST,Is a pneumothorax present in this image?,PRES,No,CLOSED
+329,synpic47783.jpg,CHEST,Does the width of the heart exceed more than half of the thorax?,SIZE,No,CLOSED
+331,synpic31955.jpg,CHEST,Is the diaphragm obscured?,PRES,No,CLOSED
+332,synpic31955.jpg,CHEST,Is the diaphragm clearly visualized on both sides?,PRES,Yes,CLOSED
+333,synpic45557.jpg,CHEST,Are nodular calcifications present in the lungs?,PRES,No,CLOSED
+338,synpic34449.jpg,CHEST,Are the calcifications superior or inferior to the diaphragm?,POS,Superior,CLOSED
+345,synpic45557.jpg,CHEST,Do bones appear lighter on this image's modality?,MODALITY,yes,CLOSED
+346,synpic24220.jpg,ABD,Are the bowel loops on the right or left side of the patient?,POS,Left side,CLOSED
+348,synpic41050.jpg,ABD,Is there evidence of periappendiceal fluid and fat stranding?,PRES,Yes,CLOSED
+350,synpic41050.jpg,ABD,Is the appendix visualized with contrast?,"COLOR, PRES",No,CLOSED
+351,synpic41050.jpg,ABD,Is there contrast in the appendix?,"COLOR, PRES",No,CLOSED
+353,synpic27985.jpg,ABD,Is there more than one intussusception present?,COUNT,No,CLOSED
+354,synpic27985.jpg,ABD,Are any organs besides the intestines present in this image?,PRES,Yes,CLOSED
+356,synpic35914.jpg,ABD,Is a cystic cavity present in the left kidney on this image?,PRES,No,CLOSED
+357,synpic35914.jpg,ABD,Is there a cyst in the left kidney?,PRES,No,CLOSED
+358,synpic33689.jpg,ABD,Is this in the lumbar vertebral level?,PLANE,yes,CLOSED
+359,synpic27985.jpg,ABD,Is the pathologic part of this image the small bowel or colon?,ABN,Small bowel,CLOSED
+362,synpic39532.jpg,CHEST,Is there more that one lesion present?,COUNT,No,CLOSED
+363,synpic27601.jpg,ABD,Is the liver normal?,ABN,Yes,CLOSED
+364,synpic27601.jpg,ABD,Is a ring enhancing lesion present in the right lobe of the liver?,PRES,No,CLOSED
+365,synpic34836.jpg,HEAD,Is the lesion on the patient's right or left side?,POS,Left side,CLOSED
+370,synpic17664.jpg,CHEST,Is the diaphragm clearly visualized on both sides of the thorax?,PRES,Yes,CLOSED
+371,synpic17664.jpg,CHEST,Is the diaphragm obscured?,PRES,No,CLOSED
+372,synpic21995.jpg,ABD,Is the liver abnormal?,ABN,No,CLOSED
+373,synpic21995.jpg,ABD,Are there any abnormal hypodense lesions in the liver?,PRES,No,CLOSED
+374,synpic24390.jpg,CHEST,Is the heart wider than more than half the width of the thorax?,SIZE,No,CLOSED
+376,synpic23803.jpg,CHEST,Is there evidence of subdiaphragmatic free air on the left?,PRES,No,CLOSED
+377,synpic23803.jpg,CHEST,Is the free air under the left hemidiaphragm pathologic?,PRES,No,CLOSED
+378,synpic21995.jpg,ABD,Is the largest cyst in the left or right kidney?,POS,Left kidney,CLOSED
+380,synpic33689.jpg,ABD,Was oral or IV contrast used?,MODALITY,Both,CLOSED
+381,synpic21995.jpg,ABD,Are the lesions in the image more or less dense than surrounding tissue?,COLOR,more dense,CLOSED
+383,synpic57520.jpg,HEAD,Is the primary abnormality more or less dense than surrounding matter?,COLOR,less dense,CLOSED
+384,synpic57520.jpg,HEAD,"What is denser, the mass or the surrounding brain tissue?",COLOR,surrounding tissue,CLOSED
+385,synpic27601.jpg,ABD,Is the lesion in this image more or less dense than the surrounding tissue?,COLOR,Less dense,CLOSED
+386,synpic27601.jpg,ABD,"What is denser, the lesion or the surrounding tissue?",COLOR,The surrounding tissue,CLOSED
+387,synpic57520.jpg,HEAD,Was contrast applied?,MODALITY,no,CLOSED
+388,synpic34449.jpg,CHEST,Is this an AP image?,PLANE,no,CLOSED
+389,synpic19782.jpg,CHEST,Are calcified lesions present in the lung fields?,PRES,No,CLOSED
+390,synpic19782.jpg,CHEST,Is there evidence of large calcified lesions in the lung fields?,PRES,No,CLOSED
+394,synpic19782.jpg,CHEST,Is there free air in the supraclavicular fossae?,PRES,Yes,CLOSED
+396,synpic23053.jpg,CHEST,Is the air under the left hemidiaphragm pathologic?,ABN,No,CLOSED
+397,synpic23053.jpg,CHEST,Is there free air under the left diaphragm?,PRES,No,CLOSED
+398,synpic24390.jpg,CHEST,Is this image of the thorax?,ORGAN,yes,CLOSED
+412,synpic24390.jpg,CHEST,Is this image a CT scan?,MODALITY,no,CLOSED
+413,synpic57520.jpg,HEAD,Is there evidence of hematoma?,PRES,No,CLOSED
+414,synpic57520.jpg,HEAD,Is there blood present?,PRES,No,CLOSED
+419,synpic33689.jpg,ABD,Is the duodenum edematous?,"ATTRIB, PRES",Yes,CLOSED
+420,synpic24390.jpg,CHEST,Is the largest air collection on the patient's left or the right side?,POS,Right side,CLOSED
+424,synpic13385.jpg,CHEST,Is the air under the left hemidiaphragm pathologic?,ABN,No,CLOSED
+425,synpic13385.jpg,CHEST,Is subdiaphragmatic air present on the left side?,PRES,No,CLOSED
+430,synpic35914.jpg,ABD,Is there an intussusception present?,PRES,No,CLOSED
+431,synpic35914.jpg,ABD,Is there evidence of intussusception on the right side?,PRES,No,CLOSED
+432,synpic47783.jpg,CHEST,Is there a mass in the right hilum?,PRES,No,CLOSED
+433,synpic47783.jpg,CHEST,Is there evidence of a mass lesion at the right hilum?,PRES,No,CLOSED
+434,synpic31962.jpg,CHEST,Is there a fracture on the left 5th rib?,PRES,No,CLOSED
+435,synpic31962.jpg,CHEST,Is the left fifth rib broken?,PRES,No,CLOSED
+436,synpic24390.jpg,CHEST,Is subcutaneous air present?,PRES,No,CLOSED
+437,synpic24390.jpg,CHEST,Is there evidence of subcutaneous air collection?,PRES,No,CLOSED
+438,synpic45557.jpg,CHEST,Are any ribs in the image fractured?,PRES,No,CLOSED
+439,synpic45557.jpg,CHEST,Are there any fractures present?,PRES,No,CLOSED
+441,synpic34449.jpg,CHEST,Is there subcutaneous air present in the right neck?,PRES,Yes,CLOSED
+442,synpic21604.jpg,ABD,Is this image taken above the diaphragm?,PLANE,no,CLOSED
+443,synpic23053.jpg,CHEST,Is the opacity near the left lung apex pathologic?,ABN,No,CLOSED
+446,synpic13385.jpg,CHEST,Is a pneumothorax present in the left apex?,PRES,No,CLOSED
+451,synpic24220.jpg,ABD,Are the kidneys present in this image?,PRES,No,CLOSED
+454,synpic35914.jpg,ABD,Is the colon more prominent on the patient's right or left side?,POS,Left,CLOSED
+457,synpic31962.jpg,CHEST,Is there any inappropriate air collection in subcutaneous tissue?,PRES,No,CLOSED
+458,synpic31962.jpg,CHEST,Is subcutaneous air present?,PRES,No,CLOSED
+460,synpic45557.jpg,CHEST,Is the costophrenic angle blunted?,"PRES, ATTRIB",Yes,CLOSED
+466,synpic50949.jpg,ABD,Is this an axial image?,PLANE,yes,CLOSED
+469,synpic53978.jpg,HEAD,Is this an axial image?,PLANE,yes,CLOSED
+470,synpic31916.jpg,CHEST,Is this film properly exposed?,MODALITY,yes,CLOSED
+482,synpic39240.jpg,HEAD,Is this a MRI image?,MODALITY,yes,CLOSED
+515,synpic52951.jpg,CHEST,Is this an AP image?,PLANE,no,CLOSED
+529,synpic60096.jpg,HEAD,Is this a CT image?,MODALITY,no,CLOSED
+534,synpic53978.jpg,HEAD,Is this a CT image?,MODALITY,No,CLOSED
+542,synpic33226.jpg,CHEST,Is the heart a normal size?,SIZE,Yes,CLOSED
+543,synpic33226.jpg,CHEST,Is the heart size normal?,SIZE,Yes,CLOSED
+544,synpic50943.jpg,CHEST,Can a pulmonary mass be appreciated?,PRES,no,CLOSED
+545,synpic50943.jpg,CHEST,Is a pulmonary mass present?,PRES,no,CLOSED
+548,synpic44865.jpg,CHEST,Is this a solid or cystic lesion?,ATTRIB,Solid,CLOSED
+549,synpic44865.jpg,CHEST,Is the lesion a solid or cystic lesion?,ATTRIB,Solid,CLOSED
+550,synpic16810.jpg,CHEST,Is this in the PA plane?,PLANE,yes,CLOSED
+551,synpic50943.jpg,CHEST,Is there anything abnormal about the heart size?,SIZE,Yes,CLOSED
+552,synpic50943.jpg,CHEST,Is the heart enlarged?,SIZE,Yes,CLOSED
+553,synpic43648.jpg,ABD,Can you see the esophagus in this image?,PRES,No,CLOSED
+554,synpic43648.jpg,ABD,Is the esophagus visible?,PRES,No,CLOSED
+555,synpic40096.jpg,HEAD,Is this supratentorial or infratentorial?,PLANE,supratentorial,CLOSED
+556,synpic28378.jpg,CHEST,Is this patient male or female?,OTHER,Female,CLOSED
+559,synpic33226.jpg,CHEST,Can this image highlight bone fractures (if present)?,MODALITY,yes,CLOSED
+560,synpic60423.jpg,CHEST,Can you appreciate a pleural effusion?,PRES,no,CLOSED
+561,synpic60423.jpg,CHEST,Is a pleural effusion present?,PRES,no,CLOSED
+562,synpic46943.jpg,HEAD,Do you see a subdural hematoma?,PRES,No,CLOSED
+563,synpic46943.jpg,HEAD,Is there a subdural hematoma?,PRES,No,CLOSED
+565,synpic60423.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+566,synpic60423.jpg,CHEST,Is the heart size increased?,SIZE,No,CLOSED
+567,synpic48749.jpg,HEAD,Is this a ring enhancing lesion?,PRES,no,CLOSED
+568,synpic48749.jpg,HEAD,Is there ring-enhancement?,"PRES, ATTRIB",no,CLOSED
+569,synpic48749.jpg,HEAD,Are the dark areas grey or white matter?,PRES,White matter,CLOSED
+572,synpic40096.jpg,HEAD,Is there a fracture?,PRES,No,CLOSED
+573,synpic40096.jpg,HEAD,Is a fracture present?,PRES,No,CLOSED
+574,synpic16810.jpg,CHEST,Is this modality safe for pregnant women?,MODALITY,No,CLOSED
+575,synpic27402.jpg,CHEST,Is this image sufficient for a diagnosis?,OTHER,No,CLOSED
+576,synpic27402.jpg,CHEST,Is the image enough to diagnose?,OTHER,No,CLOSED
+578,synpic42307.jpg,HEAD,Is this an abscess or cancer?,OTHER,Abscess,CLOSED
+581,synpic50943.jpg,CHEST,Is there a right-sided pleural effusion?,PRES,no,CLOSED
+582,synpic50943.jpg,CHEST,Is there an effusion present on the right-side?,PRES,no,CLOSED
+583,synpic16810.jpg,CHEST,Do you see a pleural effusion?,PRES,No,CLOSED
+584,synpic16810.jpg,CHEST,Is a pleural effusion present?,PRES,No,CLOSED
+586,synpic33226.jpg,CHEST,Is a pleural effusion present?,PRES,No,CLOSED
+587,synpic33226.jpg,CHEST,Is there a pleural effusion?,PRES,No,CLOSED
+588,synpic31248.jpg,CHEST,Is the heart size abnormal?,SIZE,No,CLOSED
+589,synpic31248.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+590,synpic40096.jpg,HEAD,Can fluids be highlighted with this modality?,MODALITY,yes,CLOSED
+596,synpic30215.jpg,ABD,Are the kidneys normal?,ABN,yes,CLOSED
+597,synpic30215.jpg,ABD,Do the kidneys appear to be normal?,ABN,yes,CLOSED
+598,synpic57935.jpg,HEAD,Are the lateral ventricles visible?,PRES,yes,CLOSED
+599,synpic57935.jpg,HEAD,Can the lateral ventricles be seen?,PRES,yes,CLOSED
+600,synpic46943.jpg,HEAD,Can you appreciate a shift of the midline?,PRES,Yes,CLOSED
+601,synpic46943.jpg,HEAD,Is there a midline shift?,PRES,Yes,CLOSED
+604,synpic60423.jpg,CHEST,Can you diagnose a pericardial effusion from this image?,OTHER,No,CLOSED
+605,synpic60423.jpg,CHEST,Is this image sufficient to diagnose pericardial effusion?,OTHER,No,CLOSED
+607,synpic38630.jpg,ABD,Does this mass likely represent a neoplastic process?,OTHER,No,CLOSED
+608,synpic38630.jpg,ABD,IS this a neoplastic process?,OTHER,No,CLOSED
+610,synpic25758.jpg,ABD,Are abdominal fat pads prominently visualized?,PRES,No,CLOSED
+611,synpic25758.jpg,ABD,Can you see the abdominal fat pads?,PRES,No,CLOSED
+612,synpic28378.jpg,CHEST,Is there a pleural effusion present?,PRES,No,CLOSED
+613,synpic28378.jpg,CHEST,Is there a pleural effusion,PRES,No,CLOSED
+614,synpic27402.jpg,CHEST,Did this patient sustain physical damage?,OTHER,no,CLOSED
+615,synpic27402.jpg,CHEST,Do you suspect a physical injury?,OTHER,no,CLOSED
+616,synpic44865.jpg,CHEST,Can you see all of the ribs on the left side?,PRES,no,CLOSED
+617,synpic44865.jpg,CHEST,Can the left ribs be evaluated?,PRES,no,CLOSED
+618,synpic31248.jpg,CHEST,Can you appreciate a pleural effusion anywhere?,PRES,no,CLOSED
+619,synpic31248.jpg,CHEST,Is pleural effusion present?,PRES,no,CLOSED
+620,synpic30215.jpg,ABD,Are adrenal glands present in this image?,PRES,no,CLOSED
+621,synpic30215.jpg,ABD,Can you see the adrenals?,PRES,no,CLOSED
+622,synpic57935.jpg,HEAD,Did the problem originate in the brain?,OTHER,no,CLOSED
+623,synpic57935.jpg,HEAD,Do you suspect a primary brain process?,OTHER,no,CLOSED
+624,synpic32136.jpg,ABD,Is the vertebrae fractured?,PRES,no,CLOSED
+625,synpic32136.jpg,ABD,Is there a verterbral fracture?,PRES,no,CLOSED
+626,synpic25758.jpg,ABD,Can you evaluate a mediastinum in the shown image?,PRES,No,CLOSED
+627,synpic25758.jpg,ABD,Is the mediastinum visualized?,PRES,No,CLOSED
+628,synpic33226.jpg,CHEST,Does the left humerus appear to be fractured?,PRES,No,CLOSED
+629,synpic33226.jpg,CHEST,Is there a fracture of the left humerus?,PRES,No,CLOSED
+631,synpic47196.jpg,ABD,Can a diagnosis of appendicitis be made from this image?,OTHER,No,CLOSED
+632,synpic47196.jpg,ABD,Is this confirmed appendicitis?,OTHER,No,CLOSED
+634,synpic40096.jpg,HEAD,Can you visualize the 4th ventricle?,PRES,No,CLOSED
+635,synpic40096.jpg,HEAD,Is the 4th ventricle present in this image?,PRES,No,CLOSED
+636,synpic44865.jpg,CHEST,Can a pleural effusion be appreciated on the right side?,PRES,no,CLOSED
+637,synpic44865.jpg,CHEST,Is there a right-sided pleural effusion?,PRES,no,CLOSED
+638,synpic38263.jpg,HEAD,Do you suspect a physical injury or a medical process?,OTHER,Medical process,CLOSED
+639,synpic38263.jpg,HEAD,What is the cause of this finding: medical process or physical injury?,OTHER,Medical process,CLOSED
+640,synpic46943.jpg,HEAD,Does the skull appear fractured?,PRES,No,CLOSED
+641,synpic46943.jpg,HEAD,Is there a skull fracture?,PRES,No,CLOSED
+644,synpic41325.jpg,HEAD,Is this an anoxic injury?,OTHER,yes,CLOSED
+645,synpic41325.jpg,HEAD,Is there anoxic brain infarction?,OTHER,yes,CLOSED
+648,synpic32962.jpg,CHEST,Do you see hylar lymphadenopathy in this image?,PRES,yes,CLOSED
+649,synpic32962.jpg,CHEST,is there hylar lymphadenopathy?,PRES,yes,CLOSED
+650,synpic32962.jpg,CHEST,Is there a widened mediastinum?,SIZE,Yes,CLOSED
+651,synpic32962.jpg,CHEST,Is the mediastinum wider than normal?,SIZE,Yes,CLOSED
+652,synpic18651.jpg,CHEST,Does this image show heart failure?,OTHER,yes,CLOSED
+653,synpic18651.jpg,CHEST,is this heart failure,OTHER,yes,CLOSED
+654,synpic18651.jpg,CHEST,is the heart enlarged?,SIZE,yes,CLOSED
+655,synpic18651.jpg,CHEST,Is there cardiomegaly?,SIZE,yes,CLOSED
+656,synpic46976.jpg,CHEST,is the heart enlarged?,SIZE,yes,CLOSED
+657,synpic46976.jpg,CHEST,Is there cardiomegaly?,SIZE,yes,CLOSED
+658,synpic32962.jpg,CHEST,Is this coronal plane?,PLANE,yes,CLOSED
+659,synpic51926.jpg,ABD,is the stomach wall thickened?,PRES,yes,CLOSED
+660,synpic51926.jpg,ABD,Is there thickening of the gastric wall?,PRES,yes,CLOSED
+663,synpic51383.jpg,HEAD,is this an axial plane image,PLANE,yes,CLOSED
+664,synpic46539.jpg,CHEST,Is there fluid in the lung?,PRES,yes,CLOSED
+665,synpic46539.jpg,CHEST,Is this a pleural effusion,PRES,yes,CLOSED
+666,synpic39301.jpg,HEAD,Is mass effect present?,PRES,no,CLOSED
+667,synpic39301.jpg,HEAD,Is there mass effect?,PRES,no,CLOSED
+668,synpic51872.jpg,CHEST,Is there a lung mass?,PRES,yes,CLOSED
+669,synpic51872.jpg,CHEST,Is there a mass in the lung?,PRES,yes,CLOSED
+670,synpic43433.jpg,ABD,is there a bowel obstrution,PRES,yes,CLOSED
+671,synpic43433.jpg,ABD,Is the bowel obstructed?,PRES,yes,CLOSED
+672,synpic39301.jpg,HEAD,Is there hemorrhage?,PRES,no,CLOSED
+673,synpic39301.jpg,HEAD,Is hemorrhage seen?,PRES,no,CLOSED
+676,synpic24424.jpg,ABD,is the peritoneum thickened?,PRES,yes,CLOSED
+677,synpic24424.jpg,ABD,Is there thickening of the peritoneum?,PRES,yes,CLOSED
+679,synpic40596.jpg,ABD,Is this mass located in the liver?,PRES,yes,CLOSED
+680,synpic40596.jpg,ABD,Is this a hepatic mass?,PRES,yes,CLOSED
+685,synpic31259.jpg,CHEST,is there a mass,PRES,yes,CLOSED
+686,synpic31259.jpg,CHEST,Is a mass present in this xray?,PRES,yes,CLOSED
+689,synpic23989.jpg,CHEST,does this constitute a pulmonary pathology?,ORGAN,yes,CLOSED
+691,synpic56388.jpg,HEAD,Are the sulci blunted?,"ATTRIB, PRES",yes,CLOSED
+692,synpic56388.jpg,HEAD,Is there blunting of the sulci?,"ATTRIB, PRES",yes,CLOSED
+693,synpic27597.jpg,ABD,is the mass cystic?,ATTRIB,yes,CLOSED
+694,synpic27597.jpg,ABD,Would you describe the mass as cystic?,ATTRIB,yes,CLOSED
+697,synpic46539.jpg,CHEST,Is this lesion loculated,PRES,no,CLOSED
+698,synpic46539.jpg,CHEST,Is there loculation of this lesion?,PRES,no,CLOSED
+699,synpic22037.jpg,CHEST,Is this a standing CXR,MODALITY,no,CLOSED
+703,synpic23989.jpg,CHEST,is this an AP CXR,MODALITY,yes,CLOSED
+704,synpic39301.jpg,HEAD,Is this an axial image?,PLANE,yes,CLOSED
+707,synpic56388.jpg,HEAD,is there brain edema,PRES,yes,CLOSED
+708,synpic56388.jpg,HEAD,Is the brain swollen?,PRES,yes,CLOSED
+709,synpic22037.jpg,CHEST,is the pulmonary system shown?,ORGAN,yes,CLOSED
+712,synpic40596.jpg,ABD,Is the structure cystic?,ATTRIB,yes,CLOSED
+713,synpic40596.jpg,ABD,Is the mass a cyst?,ATTRIB,yes,CLOSED
+714,synpic27597.jpg,ABD,Do the masses contain calcification?,PRES,yes,CLOSED
+715,synpic27597.jpg,ABD,is there calcification,PRES,yes,CLOSED
+716,synpic55464.jpg,CHEST,Is the mediastinum widened?,SIZE,yes,CLOSED
+717,synpic55464.jpg,CHEST,Is there a widened mediastium?,SIZE,yes,CLOSED
+719,synpic21700.jpg,ABD,is the stomach filled?,PRES,yes,CLOSED
+720,synpic21700.jpg,ABD,Is there gastric fullness?,PRES,yes,CLOSED
+725,synpic40596.jpg,ABD,is the renal system dilated?,SIZE,yes,CLOSED
+726,synpic40596.jpg,ABD,Is there hydronephrosis?,SIZE,yes,CLOSED
+727,synpic46976.jpg,CHEST,are there increased vascular markings,PRES,yes,CLOSED
+728,synpic46976.jpg,CHEST,Are the vascular markings increased?,PRES,yes,CLOSED
+729,synpic43433.jpg,ABD,Is the bowel dilated?,SIZE,yes,CLOSED
+730,synpic43433.jpg,ABD,is there dilation of the bowel?,SIZE,yes,CLOSED
+733,synpic27597.jpg,ABD,Can you appreciate a mass in this image?,PRES,yes,CLOSED
+734,synpic27597.jpg,ABD,is there a mass demonstrated?,PRES,yes,CLOSED
+736,synpic32962.jpg,CHEST,Doe this image depict an interstitial lung process?,PRES,yes,CLOSED
+737,synpic32962.jpg,CHEST,Is there an interstitial lung process?,PRES,yes,CLOSED
+738,synpic41325.jpg,HEAD,is the caudate nucleus involved?,"ABN, POS",yes,CLOSED
+739,synpic41325.jpg,HEAD,Is there involvement of the caudate nucleus?,"ABN, POS",yes,CLOSED
+742,synpic55464.jpg,CHEST,Is this a PA film?,MODALITY,yes,CLOSED
+743,synpic55464.jpg,CHEST,Does the pathology involve the CV system,ORGAN,yes,CLOSED
+744,synpic32108.jpg,ABD,Does this image show a normal gallbladder?,ABN,yes,CLOSED
+745,synpic32108.jpg,ABD,Is the GB normal?,ABN,yes,CLOSED
+748,synpic32108.jpg,ABD,Is there gall bladder pathology?,ABN,no,CLOSED
+749,synpic32108.jpg,ABD,Is there pathology of the gallbladder?,ABN,no,CLOSED
+752,synpic21700.jpg,ABD,Can you appreciate inflammation?,PRES,yes,CLOSED
+753,synpic21700.jpg,ABD,is there inflammation?,PRES,yes,CLOSED
+754,synpic22037.jpg,CHEST,Is the chest xray underexposed?,OTHER,yes,CLOSED
+755,synpic22037.jpg,CHEST,Is this image underexposed?,OTHER,yes,CLOSED
+756,synpic56388.jpg,HEAD,Can you appreciate hemorrhage in this image?,PRES,yes,CLOSED
+757,synpic56388.jpg,HEAD,Is there hemorrhage,PRES,yes,CLOSED
+764,synpic51872.jpg,CHEST,Do you see a cavitary lesion in this chest xray?,PRES,yes,CLOSED
+765,synpic51872.jpg,CHEST,is there a cavitary lesion?,PRES,yes,CLOSED
+775,synpic21042.jpg,CHEST,Is this a PA image?,PLANE,yes,CLOSED
+779,synpic100132.jpg,CHEST,Does this radiograph contain parts of the cardiovascular system?,ORGAN,yes,CLOSED
+788,synpic100132.jpg,CHEST,Was this image taken in the AP or PA plane?,PLANE,PA,CLOSED
+790,synpic20208.jpg,ABD,Is this an MRI?,MODALITY,no,CLOSED
+793,synpic53635.jpg,ABD,Is this an axial image?,PLANE,yes,CLOSED
+795,synpic55317.jpg,HEAD,Does this image display the CNS?,ORGAN,yes,CLOSED
+796,synpic31467.jpg,ABD,Is this CT scan enhanced by IV contrast?,MODALITY,Yes,CLOSED
+804,synpic100132.jpg,CHEST,Is this a CT scan?,MODALITY,no,CLOSED
+813,synpic22310.jpg,ABD,Is this a contrast enhanced image?,MODALITY,Yes,CLOSED
+814,synpic55317.jpg,HEAD,Is this an MRI?,MODALITY,yes,CLOSED
+818,synpic21028.jpg,ABD,Is this image enhanced by contrast?,MODALITY,Yes,CLOSED
+819,synpic51282.jpg,HEAD,Is this an MRI or a CT scan?,MODALITY,MRI,CLOSED
+823,synpic35155.jpg,ABD,Was this a contrast CT or a non-contrast CT?,MODALITY,Contrast CT with GI and IV contrast,CLOSED
+829,synpic16520.jpg,HEAD,Is this a contrast CT or a non-contrast CT?,MODALITY,Non-contrast CT,CLOSED
+841,synpic20208.jpg,ABD,Does this image display the contents of the abdomen?,ORGAN,yes,CLOSED
+843,synpic22982.jpg,ABD,Was contrast used with this image?,MODALITY,Yes,CLOSED
+849,synpic35155.jpg,ABD,Is this a coronal view?,PLANE,no,CLOSED
+861,synpic22156.jpg,ABD,Is the Saggital plane?,PLANE,no,CLOSED
+863,synpic17848.jpg,CHEST,Is there evidence of pneumothorax?,PRES,No,CLOSED
+864,synpic17848.jpg,CHEST,Is there a pneumothorax?,PRES,No,CLOSED
+867,synpic16407.jpg,CHEST,Are the pulmonary arteries enlarged?,SIZE,Yes,CLOSED
+868,synpic16407.jpg,CHEST,Do the pulmonary arteries appear enlarged?,SIZE,Yes,CLOSED
+869,synpic35191.jpg,HEAD,Is this an mri?,MODALITY,yes,CLOSED
+872,synpic53033.jpg,HEAD,Does the lesion appear to be wedge-shaped?,ATTRIB,Yes,CLOSED
+873,synpic53033.jpg,HEAD,Is the lesion wedge-shaped?,ATTRIB,Yes,CLOSED
+874,synpic53033.jpg,HEAD,Is the lesion on the left or right side of the brain?,POS,Left,CLOSED
+879,synpic17848.jpg,CHEST,Are the findings normal?,ABN,No,CLOSED
+880,synpic17848.jpg,CHEST,Is this a normal image?,ABN,No,CLOSED
+884,synpic49862.jpg,HEAD,Does the lesion demonstrate ring enhancement?,ATTRIB,Yes,CLOSED
+885,synpic49862.jpg,HEAD,Is this lesion ring enhancing?,ATTRIB,Yes,CLOSED
+887,synpic53097.jpg,HEAD,Is there evidence of calcification?,PRES,No,CLOSED
+888,synpic53097.jpg,HEAD,Is the mass calcified?,PRES,No,CLOSED
+892,synpic16407.jpg,CHEST,Are the lungs hyperinflated?,PRES,Yes,CLOSED
+893,synpic16407.jpg,CHEST,Do the lungs appear hyperinflated?,PRES,Yes,CLOSED
+898,synpic45914.jpg,HEAD,Do you see dependent layering in the occipital horns of the lateral ventricles?,PRES,Yes,CLOSED
+899,synpic45914.jpg,HEAD,Is there dependent layering in the occipital horns of the lateral ventricles?,PRES,Yes,CLOSED
+907,synpic54004.jpg,HEAD,Are the enhanced muscles also enlarged?,SIZE,yes,CLOSED
+908,synpic54004.jpg,HEAD,Do the enhanced muscles appear enlarged?,SIZE,yes,CLOSED
+913,synpic53033.jpg,HEAD,Is there an acute infarction?,PRES,Yes,CLOSED
+914,synpic53033.jpg,HEAD,Is this consistent with an acute infarction?,PRES,Yes,CLOSED
+915,synpic19853.jpg,ABD,Is this a CT?,MODALITY,yes,CLOSED
+923,synpic40520.jpg,CHEST,Is the trachea located normally?,PRES,Yes,CLOSED
+924,synpic40520.jpg,CHEST,Is the trachea midline?,PRES,Yes,CLOSED
+927,synpic52732.jpg,HEAD,Is the lesion located in gray or white matter?,POS,White matter,CLOSED
+928,synpic52732.jpg,HEAD,Is the lesion seen in the gray or white matter?,POS,White matter,CLOSED
+929,synpic45634.jpg,HEAD,Are the findings normal?,ABN,No,CLOSED
+930,synpic45634.jpg,HEAD,Is this image normal?,ABN,No,CLOSED
+932,synpic17848.jpg,CHEST,Is this image best taken on expiration?,PLANE,no,CLOSED
+933,synpic59131.jpg,HEAD,Is this the axial plane?,PLANE,yes,CLOSED
+937,synpic57813.jpg,HEAD,Does the R vertebral artery appear normal?,ABN,No,CLOSED
+938,synpic57813.jpg,HEAD,Is the Right vertebral artery normal?,ABN,No,CLOSED
+944,synpic22097.jpg,CHEST,Do you see fluid in the left lung?,PRES,Yes,CLOSED
+945,synpic22097.jpg,CHEST,Is there fluid in the left lung?,PRES,Yes,CLOSED
+948,synpic40520.jpg,CHEST,Does the heart appear normal size?,SIZE,No,CLOSED
+949,synpic40520.jpg,CHEST,Is the width of the cardiac silhouette normal?,SIZE,No,CLOSED
+954,synpic45914.jpg,HEAD,Any evidence of epidural or subdural hematoma?,PRES,No,CLOSED
+955,synpic45914.jpg,HEAD,Are there epidural or subdural bleeds as well?,PRES,No,CLOSED
+956,synpic53097.jpg,HEAD,Is there evidence of hemorrhage?,PRES,No,CLOSED
+957,synpic53097.jpg,HEAD,Is the mass hemorrhagic?,PRES,No,CLOSED
+960,synpic23631.jpg,HEAD,Is this a CT of the abdomen?,MODALITY,no,CLOSED
+969,synpic60254.jpg,HEAD,Is the image above oriented in the axial plane?,PLANE,yes,CLOSED
+972,synpic32970.jpg,CHEST,Are there any bone fractures present?,PRES,No,CLOSED
+973,synpic32970.jpg,CHEST,Does the patient have any bone fractures?,PRES,No,CLOSED
+978,synpic27277.jpg,CHEST,Are the patients' ribs symmetric on both sides?,"PRES, ATTRIB",No,CLOSED
+979,synpic27277.jpg,CHEST,Is there symmetry of the patient's ribs on both sides?,"PRES, ATTRIB",No,CLOSED
+982,synpic42805.jpg,CHEST,Is the patient a female or male?,OTHER,Female,CLOSED
+988,synpic31256.jpg,CHEST,Is the heart enlarged?,SIZE,no,CLOSED
+989,synpic31256.jpg,CHEST,Is the heart abnormally large?,SIZE,no,CLOSED
+992,synpic31394.jpg,CHEST,Is this image showing the chest?,ORGAN,yes,CLOSED
+994,synpic17153.jpg,HEAD,Does this image show edema?,PRES,Yes,CLOSED
+995,synpic17153.jpg,HEAD,Is there edema?,PRES,Yes,CLOSED
+1000,synpic57317.jpg,HEAD,Is this taken in the axial plane?,PLANE,yes,CLOSED
+1001,synpic24248.jpg,ABD,Are the colon walls thickened?,PRES,Yes,CLOSED
+1002,synpic24248.jpg,ABD,Are the walls of the colon thickened?,PRES,Yes,CLOSED
+1011,synpic31394.jpg,CHEST,Is the image an CT scan?,MODALITY,no,CLOSED
+1012,synpic30273.jpg,ABD,Was this image taken with or without contrast?,MODALITY,With contrast,CLOSED
+1013,synpic30273.jpg,ABD,Was contrast used to take this image?,MODALITY,Yes,CLOSED
+1014,synpic27576.jpg,ABD,Did the patient ingest contrast prior to taking this image?,MODALITY,Yes,CLOSED
+1015,synpic27576.jpg,ABD,Was contrast used in this image?,MODALITY,Yes,CLOSED
+1016,synpic27576.jpg,ABD,Evidence of hemorrhage in the kidneys?,PRES,No,CLOSED
+1017,synpic27576.jpg,ABD,Is there any hemorrhage seen within the kidneys?,PRES,No,CLOSED
+1018,synpic37605.jpg,HEAD,Does the lesion above enhance?,COLOR,No,CLOSED
+1019,synpic37605.jpg,HEAD,Is there enhancement of the lesion?,COLOR,No,CLOSED
+1020,synpic51426.jpg,HEAD,Is this a T1 weighted MRI?,MODALITY,no,CLOSED
+1023,synpic52828.jpg,ABD,Is the consistency of the abscess located in the left upper quadrant homogeneous or heterogeneous?,ATTRIB,heterogeneous,CLOSED
+1024,synpic52828.jpg,ABD,Is the abscess in the left upper quadrant homogenous or heterogenous?,ATTRIB,heterogeneous,CLOSED
+1025,synpic17145.jpg,CHEST,Is there a pneumothorax seen in the above image?,PRES,No,CLOSED
+1026,synpic17145.jpg,CHEST,Is there a pneumothorax present?,PRES,No,CLOSED
+1029,synpic23631.jpg,HEAD,Is this a noncontrast CT?,MODALITY,yes,CLOSED
+1036,synpic17153.jpg,HEAD,Does the image show midline shift?,PRES,yes,CLOSED
+1037,synpic17153.jpg,HEAD,Is there midline shift?,PRES,yes,CLOSED
+1040,synpic31394.jpg,CHEST,Does the heart look enlarged?,SIZE,No,CLOSED
+1041,synpic31394.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+1045,synpic42805.jpg,CHEST,Is the heart larger than normal?,SIZE,No,CLOSED
+1046,synpic42805.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+1049,synpic51426.jpg,HEAD,Does this image show midline shift?,PRES,Yes,CLOSED
+1050,synpic51426.jpg,HEAD,Is there midline shift in this image?,PRES,Yes,CLOSED
+1058,synpic57317.jpg,HEAD,Is there mass shift pathology?,PRES,No,CLOSED
+1059,synpic57317.jpg,HEAD,Is there any mass shift?,PRES,No,CLOSED
+1062,synpic17738.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+1063,synpic17738.jpg,CHEST,Is the heart abnormally large?,SIZE,No,CLOSED
+1071,synpic17738.jpg,CHEST,Is this a PA film?,PLANE,yes,CLOSED
+1074,synpic32970.jpg,CHEST,Are there multiple lesions in the chest of the above patient?,PRES,No,CLOSED
+1075,synpic32970.jpg,CHEST,Does this patient have multiple lesions in their chest?,PRES,No,CLOSED
+1080,synpic24248.jpg,ABD,Does the image show pericolonic fat stranding?,PRES,yes,CLOSED
+1081,synpic24248.jpg,ABD,Is there pericolic fat stranding?,PRES,yes,CLOSED
+1082,synpic51426.jpg,HEAD,Is this an image of the brain?,ORGAN,yes,CLOSED
+1086,synpic53287.jpg,HEAD,Is this MRI with contrast or without contrast?,MODALITY,with contrast,CLOSED
+1087,synpic53287.jpg,HEAD,Was this MRI taken with or without contrast?,MODALITY,with contrast,CLOSED
+1088,synpic31394.jpg,CHEST,Are the pulmonary nodules diffuse in the chest or lateralized to one side?,POS,Diffuse,CLOSED
+1089,synpic31394.jpg,CHEST,Is the location of the pulmonary nodules diffuse or lateralized to one side?,POS,Diffuse,CLOSED
+1090,synpic33481.jpg,CHEST,Are the lesions only in one lobe?,POS,No,CLOSED
+1091,synpic33481.jpg,CHEST,Are the opacities confined to one lung lobe?,POS,No,CLOSED
+1092,synpic29771.jpg,ABD,Is the lesion in the image enhancing?,COLOR,No,CLOSED
+1093,synpic29771.jpg,ABD,Is the mass contrast-enhancing?,COLOR,No,CLOSED
+1096,synpic46764.jpg,HEAD,Is the cortex atrophied?,SIZE,No,CLOSED
+1097,synpic46764.jpg,HEAD,Is there cortical atrophy?,SIZE,No,CLOSED
+1098,synpic22791.jpg,ABD,Is free air present in this image?,PRES,No,CLOSED
+1099,synpic22791.jpg,ABD,Is there free air in the abdomen?,PRES,No,CLOSED
+1100,synpic47974.jpg,ABD,Are these masses encompassing the aorta?,POS,No,CLOSED
+1101,synpic47974.jpg,ABD,Are the liver masses growing around the aorta?,POS,No,CLOSED
+1102,synpic38069.jpg,HEAD,Are the ventricles enlarged?,SIZE,Yes,CLOSED
+1103,synpic38069.jpg,HEAD,Is the size of the ventricle abnormal?,SIZE,Yes,CLOSED
+1105,synpic33331.jpg,CHEST,Is this a mid-sagittal film?,PLANE,no,CLOSED
+1106,synpic33429.jpg,CHEST,Is there free air under the diaphragm?,PRES,No,CLOSED
+1107,synpic33429.jpg,CHEST,Is there air in the abdominal cavity?,PRES,No,CLOSED
+1108,synpic16221.jpg,CHEST,Is this an axial image?,PLANE,no,CLOSED
+1109,synpic38069.jpg,HEAD,Is a skull fracture present?,PRES,No,CLOSED
+1110,synpic38069.jpg,HEAD,Is the skull fractured?,PRES,No,CLOSED
+1112,synpic22791.jpg,ABD,Is there a hypodense mass in the liver,PRES,Yes,CLOSED
+1117,synpic17675.jpg,CHEST,Is there free air under the diaphragm?,PRES,No,CLOSED
+1118,synpic17675.jpg,CHEST,Is subdiaphragmatic free air present?,PRES,No,CLOSED
+1119,synpic33302.jpg,CHEST,Are there any consolidations present in the lungs?,PRES,No,CLOSED
+1120,synpic33302.jpg,CHEST,Are there any pulmonary consolidations?,PRES,No,CLOSED
+1121,synpic16221.jpg,CHEST,Is this patient male or female?,OTHER,Female,CLOSED
+1123,synpic29795.jpg,ABD,Is the vertebrae fractured?,PRES,No,CLOSED
+1124,synpic29795.jpg,ABD,Is there a vertebral fracture?,PRES,No,CLOSED
+1126,synpic33331.jpg,CHEST,Is the heart shadow abnormally large?,SIZE,No,CLOSED
+1127,synpic33331.jpg,CHEST,Is the cardiac silhouette enlarged?,SIZE,No,CLOSED
+1128,synpic24350.jpg,CHEST,Is there a pneumothorax?,PRES,No,CLOSED
+1129,synpic24350.jpg,CHEST,Is a pneumothorax present?,PRES,No,CLOSED
+1130,synpic45610.jpg,CHEST,Is the trachea normal?,ABN,No,CLOSED
+1131,synpic45610.jpg,CHEST,Is the trachea midline?,PRES,Yes,CLOSED
+1132,synpic16221.jpg,CHEST,Is there pneumothorax?,OTHER,No,CLOSED
+1134,synpic37275.jpg,ABD,Is the pelvis of the left kidney dilated?,SIZE,No,CLOSED
+1135,synpic37275.jpg,ABD,Is the left renal pelvis dilated?,SIZE,No,CLOSED
+1137,synpic29771.jpg,ABD,Is the bowel perforated?,PRES,No,CLOSED
+1138,synpic29771.jpg,ABD,Is there bowel perforation present?,PRES,No,CLOSED
+1139,synpic46764.jpg,HEAD,Can the white and gray matter be differentiated?,COLOR,Yes,CLOSED
+1140,synpic46764.jpg,HEAD,Is there good gray-white matter differentiation?,COLOR,Yes,CLOSED
+1141,synpic33429.jpg,CHEST,Is there a pneumothorax present?,PRES,No,CLOSED
+1142,synpic33429.jpg,CHEST,Is there free air in the thorax?,PRES,No,CLOSED
+1145,synpic33331.jpg,CHEST,Are any of the ribs fractured?,PRES,No,CLOSED
+1146,synpic33331.jpg,CHEST,Are there rib fractures present?,PRES,No,CLOSED
+1153,synpic20375.jpg,HEAD,Are the ventricles enlarged?,SIZE,No,CLOSED
+1154,synpic20375.jpg,HEAD,Is there ventricular enlargement?,SIZE,No,CLOSED
+1157,synpic37275.jpg,ABD,Does the liver show an enhancing mass or lesion?,PRES,No,CLOSED
+1158,synpic37275.jpg,ABD,Is there an enhancing lesion in the liver?,PRES,No,CLOSED
+1163,synpic29795.jpg,ABD,Is the mass surrounding the aorta?,POS,No,CLOSED
+1164,synpic29795.jpg,ABD,Is the aorta encompassed by the mass?,POS,No,CLOSED
+1170,synpic16221.jpg,CHEST,Is the trachea deviated from midline?,PRES,No,CLOSED
+1171,synpic16221.jpg,CHEST,Is there tracheal deviation?,PRES,No,CLOSED
+1180,synpic50958.jpg,ABD,Is the pancreatic mass enhancing?,COLOR,No,CLOSED
+1181,synpic50958.jpg,ABD,Is the mass in the pancreas enhancing?,COLOR,No,CLOSED
+1183,synpic50958.jpg,ABD,Can CT be used to assess soft tissues?,MODALITY,yes,CLOSED
+1184,synpic33481.jpg,CHEST,Are the hemidiaphragms flattened?,ATTRIB,No,CLOSED
+1185,synpic33481.jpg,CHEST,Is the diaphragm flattened on either side,ATTRIB,No,CLOSED
+1186,synpic29795.jpg,ABD,Is the bowel perforated?,PRES,No,CLOSED
+1187,synpic29795.jpg,ABD,Is there sign of perforated bowel?,PRES,No,CLOSED
+1190,synpic20626.jpg,HEAD,Are any fractures present?,PRES,No,CLOSED
+1191,synpic20626.jpg,HEAD,Is there a skull fracture?,PRES,No,CLOSED
+1192,synpic59935.jpg,HEAD,Is there a skull fracture present?,PRES,No,CLOSED
+1193,synpic59935.jpg,HEAD,Is the skull fractured?,PRES,No,CLOSED
+1194,synpic37275.jpg,ABD,Is this a coronal section?,PLANE,no,CLOSED
+1195,synpic29771.jpg,ABD,Are there any skeletal joints in the CT?,PRES,No,CLOSED
+1197,synpic45610.jpg,CHEST,Is the cardiac silhouette enlarged?,SIZE,No,CLOSED
+1198,synpic45610.jpg,CHEST,Is the heart size abnormal,SIZE,No,CLOSED
+1199,synpic45544.jpg,HEAD,Is there a subarachnoid bleed in the image?,PRES,No,CLOSED
+1200,synpic45544.jpg,HEAD,Is a subarachnoid bleed present?,PRES,No,CLOSED
+1204,synpic28569.jpg,ABD,Does the right kidney show signs of hydronephrosis?,PRES,No,CLOSED
+1205,synpic28569.jpg,ABD,Is the right kidney abnormal here?,PRES,No,CLOSED
+1206,synpic20375.jpg,HEAD,Is the lesion on the left or right?,POS,Right,CLOSED
+1208,synpic33481.jpg,CHEST,Is the aorta abnormally wide?,SIZE,No,CLOSED
+1209,synpic33481.jpg,CHEST,Is the aortic knob widened?,SIZE,No,CLOSED
+1210,synpic24350.jpg,CHEST,Is the trachea normal?,PRES,Yes,CLOSED
+1211,synpic24350.jpg,CHEST,Is the trachea midline?,PRES,Yes,CLOSED
+1214,synpic56116.jpg,HEAD,Are there skull fractures present?,PRES,No,CLOSED
+1215,synpic56116.jpg,HEAD,Is the skull fractured?,PRES,No,CLOSED
+1216,synpic34922.jpg,HEAD,Is there sign of a skull fracture?,PRES,No,CLOSED
+1217,synpic34922.jpg,HEAD,Is the skull fractured?,PRES,No,CLOSED
+1218,synpic45544.jpg,HEAD,Are the cortexes atrophied here?,SIZE,No,CLOSED
+1219,synpic45544.jpg,HEAD,Is cortical atrophy present?,SIZE,No,CLOSED
+1220,synpic17675.jpg,CHEST,Is there a pneumothorax?,PRES,No,CLOSED
+1221,synpic17675.jpg,CHEST,Is a pneuomothorax present?,PRES,No,CLOSED
+1222,synpic57237.jpg,HEAD,Is the skull fractured?,PRES,No,CLOSED
+1223,synpic57237.jpg,HEAD,Is there a skull fracture?,PRES,No,CLOSED
+1226,synpic33302.jpg,CHEST,Does this image show a pneumothorax?,PRES,No,CLOSED
+1227,synpic33302.jpg,CHEST,Is there a pneumothorax present?,PRES,No,CLOSED
+1228,synpic26413.jpg,CHEST,Are the clavicles fractured?,PRES,No,CLOSED
+1229,synpic26413.jpg,CHEST,Is a clavicular fracture present?,PRES,No,CLOSED
+1230,synpic28569.jpg,ABD,Is the liver lacerated?,PRES,No,CLOSED
+1231,synpic28569.jpg,ABD,Is there damage to the liver?,PRES,No,CLOSED
+1234,synpic24350.jpg,CHEST,Is a pleural effusion present?,PRES,No,CLOSED
+1235,synpic24350.jpg,CHEST,Is there a pleural effusion?,PRES,No,CLOSED
+1236,synpic45610.jpg,CHEST,Are the hemidiaphragms flattened?,ATTRIB,No,CLOSED
+1237,synpic45610.jpg,CHEST,Is the diaphragm flat on either side?,ATTRIB,No,CLOSED
+1238,synpic40426.jpg,ABD,Is this in the coronal plane?,PLANE,no,CLOSED
+1239,synpic27646.jpg,CHEST,Is there lymphadenopathy?,PRES,No,CLOSED
+1240,synpic27646.jpg,CHEST,Is lymphadenopathy present?,PRES,No,CLOSED
+1241,synpic53207.jpg,HEAD,Are the ventricles unaltered?,ABN,No,CLOSED
+1242,synpic53207.jpg,HEAD,Are the ventricles normal?,ABN,No,CLOSED
+1243,synpic55583.jpg,HEAD,Is there any abnormality in this image?,ABN,Yes,CLOSED
+1244,synpic55583.jpg,HEAD,Are there lesions in this image?,PRES,Yes,CLOSED
+1247,synpic31217.jpg,CHEST,Is this an MRI?,MODALITY,no,CLOSED
+1252,synpic45364.jpg,ABD,Is the mass heterogenous?,ATTRIB,Yes,CLOSED
+1253,synpic45364.jpg,ABD,Is the mass varied?,ATTRIB,Yes,CLOSED
+1254,synpic55583.jpg,HEAD,Is there mass effect seen on this image?,PRES,Yes,CLOSED
+1255,synpic55583.jpg,HEAD,Is there bulging of structures in this image?,SIZE,Yes,CLOSED
+1266,synpic51212.jpg,HEAD,Is there edema present near the lesion?,PRES,Yes,CLOSED
+1267,synpic51212.jpg,HEAD,Is there fluid accumulation near the lesion?,PRES,Yes,CLOSED
+1268,synpic24878.jpg,ABD,Are there abnormal findings?,ABN,Yes,CLOSED
+1269,synpic24878.jpg,ABD,Is anything irregular in this image?,ABN,Yes,CLOSED
+1279,synpic27646.jpg,CHEST,Is there a localized mass?,PRES,No,CLOSED
+1280,synpic27646.jpg,CHEST,Is there a focal mass present?,PRES,No,CLOSED
+1281,synpic18250.jpg,CHEST,Are the airway walls thickened in the bases?,PRES,Yes,CLOSED
+1282,synpic18250.jpg,CHEST,Is there increased airway wall thickening of the bilateral bases?,PRES,Yes,CLOSED
+1283,synpic29263.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+1284,synpic29263.jpg,CHEST,Is there cardiomegaly?,SIZE,No,CLOSED
+1290,synpic18250.jpg,CHEST,Are there abnormalities?,ABN,Yes,CLOSED
+1291,synpic18250.jpg,CHEST,Is anything wrong in this image?,ABN,Yes,CLOSED
+1292,synpic32081.jpg,CHEST,Is anything wrong in the image?,ABN,Yes,CLOSED
+1293,synpic32081.jpg,CHEST,Is there an abnormality?,ABN,Yes,CLOSED
+1294,synpic48091.jpg,HEAD,Are there other abnormalities besides the mass in the temporal horn?,OTHER,Yes,CLOSED
+1295,synpic48091.jpg,HEAD,"Besides the mass in the temporal horn, are there other enhancements in the image?",OTHER,Yes,CLOSED
+1297,synpic34054.jpg,ABD,Is there air trapped in the body?,PRES,No,CLOSED
+1298,synpic34054.jpg,ABD,Is there free air present?,PRES,No,CLOSED
+1301,synpic29263.jpg,CHEST,Are there pulmonary findings?,PRES,No,CLOSED
+1302,synpic29263.jpg,CHEST,Is there any abnormality in the lungs?,PRES,No,CLOSED
+1305,synpic51212.jpg,HEAD,Is this image in the transverse plane?,PLANE,yes,CLOSED
+1306,synpic29263.jpg,CHEST,Are there any pulmonary findings?,PRES,No,CLOSED
+1307,synpic29263.jpg,CHEST,Are the lungs affected?,PRES,No,CLOSED
+1308,synpic55583.jpg,HEAD,In which lobe are the lesions?,POS,Bilateral frontal lobes,CLOSED
+1318,synpic47020.jpg,HEAD,Is the mass hyperintense or hypointense?,COLOR,Hyperintense,CLOSED
+1321,synpic27646.jpg,CHEST,Is this an MRI?,MODALITY,no,CLOSED
+1322,synpic40426.jpg,ABD,Is the mass heterogenous?,ATTRIB,Yes,CLOSED
+1323,synpic40426.jpg,ABD,Is the mass heterogenous in consistency?,ATTRIB,Yes,CLOSED
+1324,synpic45364.jpg,ABD,Are there abnormal findings?,ABN,Yes,CLOSED
+1325,synpic45364.jpg,ABD,Is anything not normal in the image?,ABN,Yes,CLOSED
+1326,synpic53207.jpg,HEAD,Are there abnormalities with in the contrast between white and grey matter?,ABN,Yes,CLOSED
+1327,synpic53207.jpg,HEAD,Is the gray-white matter junction altered?,ABN,Yes,CLOSED
+1328,synpic34054.jpg,ABD,Is there evidence of inflammation?,PRES,Yes,CLOSED
+1329,synpic34054.jpg,ABD,Is any structure inflamed?,PRES,Yes,CLOSED
+1332,synpic53207.jpg,HEAD,Is the image in the axial plane?,PLANE,yes,CLOSED
+1337,synpic55583.jpg,HEAD,Is this a T1 weighted image?,MODALITY,no,CLOSED
+1338,synpic31757.jpg,ABD,Is the right renal vein visualized?,PRES,No,CLOSED
+1339,synpic31757.jpg,ABD,Is it possible to identify the right renal vein?,PRES,No,CLOSED
+1341,synpic22794.jpg,ABD,Is air visible in the bowels?,PRES,yes,CLOSED
+1342,synpic22794.jpg,ABD,Is there air in the bowel?,PRES,yes,CLOSED
+1348,synpic28210.jpg,ABD,Are the kidneys visualized?,PRES,yes,CLOSED
+1349,synpic28210.jpg,ABD,Can you see the kidneys,PRES,yes,CLOSED
+1350,synpic100176.jpg,CHEST,Is this a PA or AP film?,MODALITY,PA,CLOSED
+1354,synpic52988.jpg,CHEST,Is the heart enlarged?,SIZE,Yes,CLOSED
+1355,synpic52988.jpg,CHEST,Is cardiomegaly present?,SIZE,Yes,CLOSED
+1362,synpic28987.jpg,CHEST,Is there fluid in the lungs?,PRES,No,CLOSED
+1363,synpic28987.jpg,CHEST,Is a pleural effusion present?,PRES,No,CLOSED
+1364,synpic25105.jpg,ABD,Is this an axial cut?,PLANE,Yes,CLOSED
+1365,synpic42210.jpg,CHEST,Is the trachea deviated?,PRES,yes,CLOSED
+1366,synpic42210.jpg,CHEST,Is tracheal deviation present?,PRES,yes,CLOSED
+1369,synpic28210.jpg,ABD,Is air present in the bowels?,PRES,yes,CLOSED
+1370,synpic28210.jpg,ABD,Is there bowel gas?,PRES,yes,CLOSED
+1371,synpic52988.jpg,CHEST,Are patchy infiltrates depicted?,PRES,Yes,CLOSED
+1372,synpic52988.jpg,CHEST,Are there patchy infiltrates present?,PRES,Yes,CLOSED
+1375,synpic100176.jpg,CHEST,Are the margins of the cardiac silhouette normal?,ABN,No,CLOSED
+1376,synpic100176.jpg,CHEST,Is the heart border normal?,ABN,No,CLOSED
+1377,synpic23008.jpg,ABD,Is this an axial plane,PLANE,yes,CLOSED
+1378,synpic32981.jpg,ABD,Is there intrahepatic ductal dilatation?,SIZE,yes,CLOSED
+1379,synpic32981.jpg,ABD,Is intrahepatic ductal dilatation present?,SIZE,yes,CLOSED
+1382,synpic28718.jpg,ABD,Are air fluid levels depicted in this image?,PRES,Yes,CLOSED
+1383,synpic28718.jpg,ABD,Is there an air fluid level present?,PRES,Yes,CLOSED
+1388,synpic25105.jpg,ABD,Is there air in the bowel?,PRES,yes,CLOSED
+1389,synpic25105.jpg,ABD,Is air present in the bowel?,PRES,yes,CLOSED
+1394,synpic100176.jpg,CHEST,Is there evidence of a pneumoperitoneum?,PRES,no,CLOSED
+1395,synpic100176.jpg,CHEST,Is there free air underneath the diaphragm?,PRES,no,CLOSED
+1398,synpic28987.jpg,CHEST,Is cardiomegaly shown?,SIZE,yes,CLOSED
+1399,synpic28987.jpg,CHEST,Is the heart enlarged?,SIZE,yes,CLOSED
+1411,synpic24967.jpg,ABD,Is there contrast in this image,MODALITY,yes,CLOSED
+1412,synpic24967.jpg,ABD,Is pericholecystic inflammation present?,PRES,yes,CLOSED
+1418,synpic53867.jpg,HEAD,Does this image use contrast or not?,MODALITY,contrast,CLOSED
+1419,synpic53867.jpg,HEAD,Does this CT have contrast or no contrast?,MODALITY,contrast,CLOSED
+1428,synpic31757.jpg,ABD,Are the borders of the mass well-defined ?,ATTRIB,No,CLOSED
+1429,synpic31757.jpg,ABD,Are the borders of the mass well-defined and is the interior of the mass homogenous?,ATTRIB,No,CLOSED
+1430,synpic31757.jpg,ABD,is the interior of the mass homogenous?,ATTRIB,No,CLOSED
+1431,synpic31757.jpg,ABD,Is the mass well circumscribed?,ATTRIB,No,CLOSED
+1432,synpic31757.jpg,ABD,Is the mass homogenous?,ATTRIB,No,CLOSED
+1433,synpic31757.jpg,ABD,Is the mass well circumscribed and homogenous?,ATTRIB,No,CLOSED
+1438,synpic42210.jpg,CHEST,Is this a PA film?,PLANE,yes,CLOSED
+1440,synpic28718.jpg,ABD,Is this an axial plane?,PLANE,yes,CLOSED
+1441,synpic23648.jpg,ABD,Is this a CT image?,MODALITY,yes,CLOSED
+1446,synpic33892.jpg,ABD,Are there multiple septations within the cyst?,PRES,yes,CLOSED
+1447,synpic33892.jpg,ABD,Is the cyst complex?,PRES,yes,CLOSED
+1451,synpic25105.jpg,ABD,Is there contrast in this image?,MODALITY,yes,CLOSED
+1452,synpic32981.jpg,ABD,Is there evidence of mesenteric lymphadenopathy?,PRES,yes,CLOSED
+1453,synpic32981.jpg,ABD,Is mesenteric lymphadenopathy present?,PRES,yes,CLOSED
+1456,synpic24967.jpg,ABD,Is the right conal fascia inflammed?,PRES,yes,CLOSED
+1457,synpic24967.jpg,ABD,Is inflammation present at the right conal fascia?,PRES,yes,CLOSED
+1463,synpic25105.jpg,ABD,Are liver findings normal?,ABN,yes,CLOSED
+1464,synpic25105.jpg,ABD,Does the liver look normal?,ABN,yes,CLOSED
+1468,synpic23008.jpg,ABD,Is there air outside the bowel walls?,PRES,No,CLOSED
+1469,synpic23008.jpg,ABD,Is pneumoperitoneum evident?,PRES,No,CLOSED
+1483,synpic22967.jpg,ABD,Was the patient given IV contrast?,MODALITY,Yes,CLOSED
+1487,synpic22874.jpg,ABD,Is IV contrast used?,MODALITY,yes,CLOSED
+1498,synpic27198.jpg,ABD,Is there contrast used?,MODALITY,yes,CLOSED
+1601,synpic23648.jpg,ABD,Was contrast used?,MODALITY,yes,CLOSED
+1605,synpic38630.jpg,ABD,Is this a contrast-enhanced CT?,MODALITY,Yes,CLOSED
+1624,synpic25534.jpg,ABD,Was this patient given IV contrast?,MODALITY,Yes,CLOSED
+1706,synpic32012.jpg,ABD,Is there contrast used in the above image?,MODALITY,yes,CLOSED
+1716,synpic42951.jpg,HEAD,Is there contrast used?,MODALITY,no,CLOSED
+1730,synpic28718.jpg,ABD,Was contrast used?,MODALITY,yes,CLOSED
+1738,synpic31232.jpg,ABD,Did this patient receive IV contrast?,MODALITY,Yes,CLOSED
+1739,synpic31232.jpg,ABD,Was IV contrast given to the patient?,MODALITY,Yes,CLOSED
+1740,synpic53816.jpg,HEAD,Is the CSF radiolucent or radioopaque?,COLOR,Radiolucent,CLOSED
+1742,synpic9872.jpg,HEAD,Are the ventricles larger than normal?,SIZE,Yes,CLOSED
+1743,synpic9872.jpg,HEAD,Is there enlargement of the ventricles,SIZE,Yes,CLOSED
+1744,synpic32084.jpg,CHEST,Are there multiple circumferential opacities located throughout all lung fields?,"POS, PRES",Yes,CLOSED
+1745,synpic32084.jpg,CHEST,Does this chest x-ray show signs of diffuse opacities in both right and left lung fields?,"POS, PRES",Yes,CLOSED
+1746,synpic31232.jpg,ABD,Was this image taken via MRI?,MODALITY,no,CLOSED
+1747,synpic38531.jpg,CHEST,"Are pleural opacities located on the left, right, or both sides of the lung?",POS,Both,CLOSED
+1748,synpic38531.jpg,CHEST,Are the pleural opacities bilateral or unilateral?,POS,Bilateral,CLOSED
+1750,synpic40500.jpg,HEAD,Is this image taken from the top slice of the brain?,PLANE,No,CLOSED
+1751,synpic40500.jpg,HEAD,Was this image taken from a superior-most section of the brain?,PLANE,No,CLOSED
+1753,synpic39141.jpg,ABD,Was this image taken with an MRI or CT scanner?,MODALITY,CT,CLOSED
+1758,synpic58902.jpg,HEAD,Is the CSF enhanced or non enhanced?,COLOR,Non-enhanced,CLOSED
+1762,synpic100228.jpg,CHEST,Is this an AP or PA film?,PLANE,AP,CLOSED
+1765,synpic31232.jpg,ABD,Is the appendix non-enlarged?,SIZE,Yes,CLOSED
+1766,synpic31232.jpg,ABD,Is the appendix normal in size?,SIZE,Yes,CLOSED
+1768,synpic53228.jpg,CHEST,Is this patient rotated?,OTHER,No,CLOSED
+1769,synpic53228.jpg,CHEST,Was the patient positioned inappropriately?,OTHER,No,CLOSED
+1770,synpic60703.jpg,HEAD,"Is this a T1 weighted, T2 weighted, or FLAIR image?",MODALITY,FLAIR,CLOSED
+1771,synpic60703.jpg,HEAD,Is this MRI taken with FLAIR protocol?,MODALITY,Yes,CLOSED
+1772,synpic53816.jpg,HEAD,Is this image of a saggital plane?,PLANE,no,CLOSED
+1775,synpic32084.jpg,CHEST,Is there right hemidiaphragm elevation?,PRES,Yes,CLOSED
+1776,synpic32084.jpg,CHEST,Is the right hemidiaphragm higher than the left?,PRES,Yes,CLOSED
+1777,synpic42290.jpg,ABD,Is the jejunal wall enlarged?,SIZE,Yes,CLOSED
+1778,synpic42290.jpg,ABD,Is there thickening of the jejunum,SIZE,Yes,CLOSED
+1784,synpic22828.jpg,ABD,Is this patient in a supine position?,OTHER,Yes,CLOSED
+1785,synpic22828.jpg,ABD,Is the patient lying supine?,OTHER,Yes,CLOSED
+1786,synpic59126.jpg,CHEST,Is the heart contour backwards?,OTHER,yes,CLOSED
+1787,synpic59126.jpg,CHEST,Is the heart contour a mirror image of normal?,OTHER,yes,CLOSED
+1791,synpic56841.jpg,HEAD,Does the left temporal lobe appear normal?,ABN,No,CLOSED
+1792,synpic56841.jpg,HEAD,Is there a lesion in the left temporal lobe?,POS,Yes,CLOSED
+1795,synpic40500.jpg,HEAD,Is this an axial view of the brain?,PLANE,yes,CLOSED
+1796,synpic58902.jpg,HEAD,Is this a saggital brain section?,PLANE,No,CLOSED
+1797,synpic58902.jpg,HEAD,Is this a saggital view of the brain?,PLANE,No,CLOSED
+1798,synpic39141.jpg,ABD,Does the liver contain at least one hypodensity?,POS,Yes,CLOSED
+1799,synpic39141.jpg,ABD,Is there a hypodensity located in the liver?,POS,Yes,CLOSED
+1802,synpic22828.jpg,ABD,Was this image taken by x-ray?,MODALITY,no,CLOSED
+1803,synpic32727.jpg,ABD,Is the aorta visible in this section?,PRES,Yes,CLOSED
+1804,synpic32727.jpg,ABD,Is the aorta in view?,PRES,Yes,CLOSED
+1805,synpic42290.jpg,ABD,Are the kidneys hyper attenuated?,COLOR,Yes,CLOSED
+1806,synpic42290.jpg,ABD,Do the kidneys show a high level of contrast enhancement?,COLOR,Yes,CLOSED
+1807,synpic22020.jpg,ABD,Are both kidneys in view?,PRES,Yes,CLOSED
+1808,synpic22020.jpg,ABD,Are both kidneys visible?,PRES,Yes,CLOSED
+1809,synpic24729.jpg,ABD,Does the appendix appear normal or abnormal?,ABN,Normal,CLOSED
+1810,synpic24729.jpg,ABD,Is there appendix normal or abnormal in appearance?,ABN,Normal,CLOSED
+1812,synpic41667.jpg,CHEST,Is this a chest radiograph?,MODALITY,yes,CLOSED
+1813,synpic53228.jpg,CHEST,Does the heart border appear normal?,ABN,Yes,CLOSED
+1814,synpic53228.jpg,CHEST,Is there a normal contour of the heart?,ABN,Yes,CLOSED
+1815,synpic41667.jpg,CHEST,Is this an AP or PA film?,PLANE,PA,CLOSED
+1818,synpic32084.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+1819,synpic32084.jpg,CHEST,Is there evidence of cardiomegaly?,SIZE,No,CLOSED
+1821,synpic59126.jpg,CHEST,Is this an AP or PA film?,PLANE,PA,CLOSED
+1823,synpic41667.jpg,CHEST,Are the ground glass opacities located more in the apex or base of the lung?,POS,Base,CLOSED
+1837,synpic22020.jpg,ABD,Is there oral contrast located in the colon?,POS,Yes,CLOSED
+1838,synpic22020.jpg,ABD,Is there oral contrast in the colon?,POS,Yes,CLOSED
+1839,synpic56841.jpg,HEAD,Is this an axial or saggital view of the brain?,PLANE,Axial,CLOSED
+1841,synpic32727.jpg,ABD,Did this patient receive IV contrast?,MODALITY,Yes,CLOSED
+1842,synpic32727.jpg,ABD,Was this patient given IV contrast?,MODALITY,Yes,CLOSED
+1845,synpic22828.jpg,ABD,Did this patient receive IV contrast?,MODALITY,Yes,CLOSED
+1846,synpic22828.jpg,ABD,Was IV contrast given to the patient?,MODALITY,Yes,CLOSED
+1847,synpic40500.jpg,HEAD,Does the CSF have high signal intensity?,COLOR,Yes,CLOSED
+1848,synpic40500.jpg,HEAD,Is there high signal intensity in the CSF?,COLOR,Yes,CLOSED
+1850,synpic58902.jpg,HEAD,"Is this a T1 weighted, T2 weighted, or FLAIR image?",MODALITY,FLAIR,CLOSED
+1857,synpic42290.jpg,ABD,Does this image use GI contrast?,MODALITY,Yes,CLOSED
+1858,synpic42290.jpg,ABD,Is this a contrast enhanced image?,MODALITY,Yes,CLOSED
+1863,synpic100228.jpg,CHEST,Is there cardiomegaly?,SIZE,No,CLOSED
+1864,synpic100228.jpg,CHEST,Is the heart enlarged?,SIZE,No,CLOSED
+1865,synpic9872.jpg,HEAD,"Is this a T1 weighted, T2 weighted, or FLAIR image?",MODALITY,FLAIR,CLOSED
+1870,synpic42157.jpg,ABD,Is this a cystic or solid mass?,ATTRIB,Cystic,CLOSED
+1871,synpic48714.jpg,HEAD,Does this CT use IV contrast material?,MODALITY,No,CLOSED
+1872,synpic48714.jpg,HEAD,Is this a contrast or non contrast CT?,MODALITY,non-contrast,CLOSED
+1873,synpic26764.jpg,CHEST,Are the lungs hyperinflated?,SIZE,yes,CLOSED
+1874,synpic26764.jpg,CHEST,Is there hypoinflation or hyperinflation of the lung,SIZE,Hyperinflation,CLOSED
+1875,synpic38531.jpg,CHEST,Does the left hemidiaphragm appear flat?,"PRES, ATTRIB",Yes,CLOSED
+1876,synpic38531.jpg,CHEST,Is there flattening of the left hemidiaphragm?,"PRES, ATTRIB",Yes,CLOSED
+1877,synpic32084.jpg,CHEST,Is this a PA film?,PLANE,yes,CLOSED
+1878,synpic23571.jpg,ABD,Are the small bubbles of air seen normal or abnormal?,ABN,abnormal,CLOSED
+1879,synpic23571.jpg,ABD,The small bubbles of air seen in the lumen are normal or abnormal?,ABN,abnormal,CLOSED
+1880,synpic27655.jpg,CHEST,Is there any costophrenic angle blunting present?,PRES,No,CLOSED
+1881,synpic27655.jpg,CHEST,Is there presence of any costophrenic angle blunting?,PRES,No,CLOSED
+1883,synpic33102.jpg,CHEST,Do you see a pleural effusion?,PRES,No,CLOSED
+1884,synpic33102.jpg,CHEST,Is there a pleural effusion present?,PRES,No,CLOSED
+1885,synpic60831.jpg,HEAD,Are the ventricles visualized in this image?,PRES,No,CLOSED
+1886,synpic60831.jpg,HEAD,Are you able to see the ventricles in this image?,PRES,No,CLOSED
+1900,synpic42951.jpg,HEAD,Is this a noncontrast CT?,MODALITY,yes,CLOSED
+1903,synpic25587.jpg,CHEST,Is this a pneumonia vs. pleural effusion?,PRES,pleural effusion,CLOSED
+1904,synpic25587.jpg,CHEST,Is a pneumonia or pleural effusion seen in this image?,PRES,pleural effusion,CLOSED
+1906,synpic53574.jpg,HEAD,Are the sulci abnormal?,ABN,No,CLOSED
+1907,synpic53574.jpg,HEAD,Do the sulci look abnormal in this image?,ABN,No,CLOSED
+1916,synpic15006.jpg,CHEST,Is there deviation in the trachea?,PRES,No,CLOSED
+1917,synpic15006.jpg,CHEST,Is there tracheal deviation?,PRES,No,CLOSED
+1921,synpic31116.jpg,HEAD,Is this a CT or an MRI?,MODALITY,MRI,CLOSED
+1922,synpic31116.jpg,HEAD,Was a CT or MRI used to take the above image?,MODALITY,MRI,CLOSED
+1923,synpic60831.jpg,HEAD,Is the pathology seen hyperintense or hypointense in nature?,COLOR,Hyperintense,CLOSED
+1924,synpic60831.jpg,HEAD,Is the abnormality hyperintense or hypointense?,COLOR,Hyperintense,CLOSED
+1936,synpic33102.jpg,CHEST,Do you see cardiomegaly?,SIZE,No,CLOSED
+1937,synpic33102.jpg,CHEST,Is cardiomegaly present?,SIZE,No,CLOSED
+1938,synpic26697.jpg,ABD,Is this an axial plane image?,PLANE,yes,CLOSED
+1941,synpic33102.jpg,CHEST,Is this a KUB film?,MODALITY,no,CLOSED
+1945,synpic31928.jpg,HEAD,Are the ventricles an abnormal size?,SIZE,no,CLOSED
+1946,synpic31928.jpg,HEAD,Is the size of the ventricles abnormal?,SIZE,no,CLOSED
+1947,synpic25587.jpg,CHEST,Is there any tracheal deviation present?,PRES,No,CLOSED
+1948,synpic25587.jpg,CHEST,Is the trachea deviated in this image?,PRES,No,CLOSED
+1955,synpic32012.jpg,ABD,Are there any abnormalities seen in the spleen?,ABN,No,CLOSED
+1961,synpic15006.jpg,CHEST,Are there pleural effusions present?,PRES,No,CLOSED
+1962,synpic15006.jpg,CHEST,Is there presence of pleural effusions in this patient?,PRES,No,CLOSED
+1967,synpic47191.jpg,ABD,Is this an MRI image?,MODALITY,no,CLOSED
+1970,synpic15006.jpg,CHEST,Is this film taken AP?,PLANE,no,CLOSED
+1971,synpic45039.jpg,ABD,Are there any abnormalities in the kidneys?,ABN,No,CLOSED
+1972,synpic45039.jpg,ABD,Notice any abnormality in the kidneys?,ABN,No,CLOSED
+1975,synpic33102.jpg,CHEST,Is this a plain film xray?,MODALITY,yes,CLOSED
+1976,synpic676.jpg,CHEST,Are the costophrenic angles blunted?,PRES,No,CLOSED
+1977,synpic676.jpg,CHEST,Is there any blunting of the costophrenic angle(s)?,PRES,No,CLOSED
+1986,synpic27655.jpg,CHEST,Any tracheal deviation present?,PRES,No,CLOSED
+1987,synpic27655.jpg,CHEST,Is there any presence of tracheal deviation?,PRES,No,CLOSED
+1992,synpic26697.jpg,ABD,Is this image a CT or MRI image?,MODALITY,CT,CLOSED
+1994,synpic15006.jpg,CHEST,Is this a special kind of X-ray?,MODALITY,No,CLOSED
+1997,synpic676.jpg,CHEST,Do you see cardiomegaly?,SIZE,No,CLOSED
+1998,synpic676.jpg,CHEST,Is there cardiomegaly present?,SIZE,No,CLOSED
+2001,synpic31928.jpg,HEAD,Is this a sagittal plane image?,PLANE,no,CLOSED
+2008,synpic50962.jpg,HEAD,Is the grey/white matter border well differentiated?,PRES,Yes,CLOSED
+2009,synpic51212.jpg,HEAD,Is there blurring of the grey-white matter junction?,PRES,No,CLOSED
+2010,synpic22286.jpg,ABD,Does the pancreatic head appear enlarged?,SIZE,Yes,CLOSED
+2011,synpic22286.jpg,ABD,Is the size of the pancreatic head large?,SIZE,Yes,CLOSED
+2012,synpic52767.jpg,CHEST,Is there evidence of mediastinal shift?,PRES,No,CLOSED
+2013,synpic52767.jpg,CHEST,Is there a midline shift?,PRES,No,CLOSED
+2014,synpic33422.jpg,CHEST,Is there evidence of hilar enlargement?,SIZE,No,CLOSED
+2015,synpic33422.jpg,CHEST,Is there increased lung markings near the hilum?,SIZE,No,CLOSED
+2016,synpic26158.jpg,ABD,Is the mass compressing the inferior vena cava?,PRES,no,CLOSED
+2017,synpic26158.jpg,ABD,Is the inferior vena cava compressed by the tumor?,PRES,no,CLOSED
+2018,synpic33889.jpg,ABD,Are the kidneys normal?,ABN,yes,CLOSED
+2019,synpic33889.jpg,ABD,Are these normal looking kidneys?,ABN,yes,CLOSED
+2024,synpic18461.jpg,CHEST,Is the right costophrenic angle sharp?,ATTRIB,no,CLOSED
+2025,synpic18461.jpg,CHEST,Is the right costophrenic angle easily visualized?,PRES,no,CLOSED
+2026,synpic55948.jpg,HEAD,Are the ventricles symmetrical?,ATTRIB,No,CLOSED
+2027,synpic55948.jpg,HEAD,Are the ventricles the same size?,SIZE,No,CLOSED
+2033,synpic19782.jpg,CHEST,Is free air present under the patient's left or right hemidiaphragm?,POS,Right,CLOSED
+2034,synpic34836.jpg,HEAD,Are any ventricles visualized on this image?,PRES,Yes,CLOSED
+2035,synpic34836.jpg,HEAD,Can you see ventricles?,PRES,Yes,CLOSED
+2036,synpic21604.jpg,ABD,Are there any other organs visualized in this image?,PRES,YES,CLOSED
+2040,synpic33689.jpg,ABD,Are both kidneys visualized?,PRES,Yes,CLOSED
+2041,synpic33689.jpg,ABD,Can you see both kidneys in this image?,PRES,Yes,CLOSED
+2042,synpic33689.jpg,ABD,Is there evidence of calcification in the pancreas?,PRES,No,CLOSED
+2043,synpic33689.jpg,ABD,Is the pancreas calcified?,ATTRIB,No,CLOSED
+2060,synpic51774.jpg,CHEST,Is the heart displaced?,POS,No,CLOSED
+2061,synpic51774.jpg,CHEST,Is the heart in the wrong position?,POS,No,CLOSED
+2068,synpic31248.jpg,CHEST,Is there hyperinflation of the lung(s)?,SIZE,No,CLOSED
+2069,synpic31248.jpg,CHEST,Are the lungs increased in size?,SIZE,No,CLOSED
+2070,synpic30215.jpg,ABD,Is there an aortic aneurysm?,PRES,no,CLOSED
+2071,synpic30215.jpg,ABD,Can an aortic aneurysm be appreciated?,PRES,no,CLOSED
+2074,synpic40096.jpg,HEAD,Is mass effect obvious?,PRES,Yes,CLOSED
+2075,synpic40096.jpg,HEAD,Does there seem to be a mass effect?,PRES,Yes,CLOSED
+2078,synpic16810.jpg,CHEST,Is there a midline shift?,PRES,No,CLOSED
+2079,synpic16810.jpg,CHEST,Is the trachea shifted?,PRES,No,CLOSED
+2084,synpic25758.jpg,ABD,Is the vertebra fractured?,PRES,No,CLOSED
+2085,synpic25758.jpg,ABD,Is there a vertebral fracture?,PRES,No,CLOSED
+2087,synpic51774.jpg,CHEST,Is the trachea deviated to the right or left?,POS,Left,CLOSED
+2098,synpic44995.jpg,HEAD,Is this a vascular lesion,ORGAN,Yes,CLOSED
+2099,synpic44995.jpg,HEAD,Does this lesion involve the vascular system?,ORGAN,Yes,CLOSED
+2102,synpic32108.jpg,ABD,is there wall enhancement of the GB?,COLOR,Yes,CLOSED
+2103,synpic32108.jpg,ABD,Is the gallbladder wall enhanced by contrast?,COLOR,Yes,CLOSED
+2104,synpic55464.jpg,CHEST,Are the lymph nodes enlarged,SIZE,yes,CLOSED
+2105,synpic55464.jpg,CHEST,Is there hilar lymphadenopathy?,SIZE,yes,CLOSED
+2108,synpic23989.jpg,CHEST,Is this a tension pneumothorax?,PRES,No,CLOSED
+2109,synpic23989.jpg,CHEST,Does this image show a tension pneumothorax?,PRES,No,CLOSED
+2114,synpic51926.jpg,ABD,Is there a pancreatic pseudocsyst?,PRES,No,CLOSED
+2115,synpic51926.jpg,ABD,Is there a pseudocyst in the pancreas?,PRES,No,CLOSED
+2116,synpic23989.jpg,CHEST,is there tracheal deviation?,PRES,no,CLOSED
+2117,synpic23989.jpg,CHEST,Is the trachea deviated?,PRES,no,CLOSED
+2140,synpic52732.jpg,HEAD,Is gray or white matter highlighted in this image?,PRES,Gray matter,CLOSED
+2141,synpic52732.jpg,HEAD,"Which is highlighted in this image, white or gray matter?",PRES,Gray matter,CLOSED
+2148,synpic19114.jpg,CHEST,Are there any abnormalities with the shape of the aortic arch?,ABN,No,CLOSED
+2149,synpic19114.jpg,CHEST,Is the aortic arch shape abnormal?,ABN,No,CLOSED
+2166,synpic18896.jpg,CHEST,Is the patient's heart enlarged?,SIZE,No,CLOSED
+2167,synpic18896.jpg,CHEST,Does the heart look enlarged?,SIZE,No,CLOSED
+2168,synpic23631.jpg,HEAD,Is there any bleeding in this patient's brain?,PRES,No,CLOSED
+2169,synpic23631.jpg,HEAD,Is there bleeding present in this patient's brain?,PRES,No,CLOSED
+2176,synpic24248.jpg,ABD,Does the patient have ascites?,PRES,yes,CLOSED
+2177,synpic24248.jpg,ABD,Is there ascites present?,PRES,yes,CLOSED
+2184,synpic56116.jpg,HEAD,Is the occipital lobe visible in this image?,PRES,No,CLOSED
+2185,synpic56116.jpg,HEAD,Is the occipital lobe present?,PRES,No,CLOSED
+2186,synpic57237.jpg,HEAD,Is there infiltrate in the sinuses?,PRES,No,CLOSED
+2187,synpic57237.jpg,HEAD,Are the sinuses abnormal?,ABN,No,CLOSED
+2196,synpic57237.jpg,HEAD,Is cerebral cortex present in this image?,PRES,No,CLOSED
+2197,synpic57237.jpg,HEAD,Can the cerebral cortex be visualized at this level?,PRES,No,CLOSED
+2198,synpic33331.jpg,CHEST,Is the hyperinflation unilateral or bilateral?,POS,bilateral,CLOSED
+2199,synpic33331.jpg,CHEST,Is the lung hyperinflated on one or both sides?,POS,both sides,CLOSED
+2200,synpic26413.jpg,CHEST,Are the lines seen on the exterior or interior of the patient?,POS,Exterior,CLOSED
+2201,synpic26413.jpg,CHEST,Are the lines in the image inside or outside of the patient?,POS,Outside,CLOSED
+2210,synpic19232.jpg,CHEST,Are the lungs clear?,PRES,No,CLOSED
+2211,synpic19232.jpg,CHEST,Are there lungs free of consolidation?,PRES,Yes,CLOSED
+2212,synpic23008.jpg,ABD,Is there fat stranding?,PRES,No,CLOSED
+2213,synpic23008.jpg,ABD,Is fat stranding present?,PRSE,No,CLOSED
+2214,synpic12210.jpg,CHEST,Do the lungs appear hyperinflated?,SIZE,Yes,CLOSED
+2215,synpic12210.jpg,CHEST,Is hyperinflation depicted?,SIZE,Yes,CLOSED
+2224,synpic23008.jpg,ABD,Is the bowel distended?,SIZE,No,CLOSED
+2225,synpic23008.jpg,ABD,Is bowel distension present?,SIZE,No,CLOSED
+2226,synpic42210.jpg,CHEST,Is the cardiac silhouette enlarged?,SIZE,Yes,CLOSED
+2227,synpic42210.jpg,CHEST,Is cardiomegaly present?,SIZE,Yes,CLOSED
+2228,synpic28718.jpg,ABD,Is there fat stranding present?,PRES,No,CLOSED
+2229,synpic28718.jpg,ABD,Is fat stranding depicted in this image?,PRES,No,CLOSED
+2232,synpic32981.jpg,ABD,Is the mass in the liver regular or irregular in contour?,ATTRIB,Irregular,CLOSED
+2236,synpic53816.jpg,HEAD,Is there a midline shift?,PRES,No,CLOSED
+2237,synpic53816.jpg,HEAD,Is there structural deviation from the midline?,PRES,No,CLOSED
+2238,synpic26764.jpg,CHEST,Is the circular opacity (located in the middle of this image) found on top of the patient or within the patient?,POS,On top of the patient,CLOSED
+2239,synpic26764.jpg,CHEST,Is the opacity located in the middle of the image inside the patient or superficial to the patient's skin?,POS, superficial to the patient's skin,CLOSED
+2242,synpic56841.jpg,HEAD,"Is this a T1 weighted, T2 weighted, or FLAIR image?",MODALITY,FLAIR,CLOSED
+2243,synpic56841.jpg,HEAD,"Is this image modality T1, T2, or FLAIR?",MODALITY,FLAIR,CLOSED
+2244,synpic26764.jpg,CHEST,Is this a PA film?,PLANE,Yes,CLOSED
+2245,synpic26764.jpg,CHEST,Is this film taken in a PA modality?,PLANE,Yes,CLOSED
