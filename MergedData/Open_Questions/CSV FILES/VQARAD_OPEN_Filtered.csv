@@ -1,0 +1,736 @@
+qid,image_name,image_organ,question,question_type,answer,answer_type
+3,synpic28602.jpg,CHEST,What type of imaging does this not represent?,MODALITY,ultrasound,OPEN
+5,synpic28602.jpg,CHEST,What is not pictured in this image?,ORGAN,The extremities,OPEN
+11,synpic42202.jpg,CHEST,Which organ system is abnormal in this image?,ORGAN,Cardiovascular,OPEN
+16,synpic54610.jpg,HEAD,What type of imaging is this?,MODALITY,MRI Diffusion Weighted,OPEN
+17,synpic54610.jpg,HEAD,What organ system is pictured?,ORGAN,the brain,OPEN
+26,synpic42202.jpg,CHEST,What type of image is this?,MODALITY,Chest X-ray,OPEN
+29,synpic39460.jpg,HEAD,In what plane is this image oriented?,PLANE,Axial,OPEN
+181,synpic18319.jpg,CHEST,Describe the lung abnormalities?,ABN,Pulmonary nodules,OPEN
+182,synpic18319.jpg,CHEST,What abnormalities are seen within the lungs?,ABN,Pulmonary nodules,OPEN
+183,synpic32933.jpg,CHEST,What is under the right hemidiaphragm?,PRES,Free air,OPEN
+184,synpic32933.jpg,CHEST,What is the abnormality by the right hemidiaphragm?,PRES,Free air,OPEN
+190,synpic40464.jpg,ABD,How would you describe the spleen abnormality,ATTRIB,hypodense lesion,OPEN
+191,synpic40464.jpg,ABD,What is abnormal about the spleen?,ATTRIB,hypodense lesion,OPEN
+192,synpic20260.jpg,ABD,What organ system is evaluated primarily?,ORGAN,GI,OPEN
+198,synpic56799.jpg,HEAD,How would you describe the lesion?,ATTRIB,Ring-enhancing lesion,OPEN
+199,synpic56799.jpg,HEAD,What are key characteristics of the lesion?,ATTRIB,Ring-enhancing lesion,OPEN
+205,synpic55948.jpg,HEAD,How would you describe the abnormality?,ATTRIB,Diffuse,OPEN
+207,synpic20260.jpg,ABD,What kind of scan is this?,MODALITY,CT,OPEN
+210,synpic18461.jpg,CHEST,What kind of image is this?,MODALITY,Chest x-ray,OPEN
+213,synpic40314.jpg,ABD,What organ is enlarged?,"PRES, POS",Pancreas,OPEN
+214,synpic40314.jpg,ABD,Which organ has the abnormality?,"PRES, POS",Pancreas,OPEN
+215,synpic31400.jpg,CHEST,where is the cavitary lesion?,POS,Right upper lobe,OPEN
+216,synpic31400.jpg,CHEST,where is the abnormality?,POS,Right upper lobe,OPEN
+218,synpic23130.jpg,ABD,What density is the abnormality?,COLOR,Hypodense,OPEN
+219,synpic33889.jpg,ABD,What part of the liver is the mass located in?,POS,Left hepatic lobe,OPEN
+220,synpic33889.jpg,ABD,Where is the mass in the liver?,POS,Left hepatic lobe,OPEN
+221,synpic18461.jpg,CHEST,What organ is primarily evaluated in this image?,ORGAN,Lungs,OPEN
+222,synpic57368.jpg,HEAD,What hemisphere are the lesions located in?,POS,Bilateral,OPEN
+223,synpic57368.jpg,HEAD,Where are the abnormalities?,POS,Bilateral,OPEN
+224,synpic20260.jpg,ABD,What does nodular liver suggest?,OTHER,Cirrhosis,OPEN
+225,synpic20260.jpg,ABD,What does the shape of the liver suggest?,OTHER,Cirrhosis,OPEN
+226,synpic20260.jpg,ABD,What is the brightness in the abdominal aorta?,PRES,Atherosclerotic calcification,OPEN
+227,synpic20260.jpg,ABD,What causes hyper intensity in aorta?,PRES,Atherosclerotic calcification,OPEN
+229,synpic51709.jpg,HEAD,Where in the brain is the lesion?,POS,right parietal lobe,OPEN
+230,synpic51709.jpg,HEAD,Where is the lesion?,POS,right parietal lobe,OPEN
+231,synpic31400.jpg,CHEST,Which organ system is imaged?,ORGAN,Chest,OPEN
+234,synpic40464.jpg,ABD,What does the hypodensity suggest?,OTHER,metastasis,OPEN
+235,synpic40464.jpg,ABD,What caused the lesion?,OTHER,metastasis,OPEN
+236,synpic33889.jpg,ABD,In what plane is this image taken?,PLANE,axial,OPEN
+238,synpic49914.jpg,CHEST,Which plane is this image taken?,PLANE,PA,OPEN
+239,synpic21044.jpg,CHEST,What is abnormal about the hila?,ATTRIB,Enlarged,OPEN
+241,synpic49914.jpg,CHEST,What is happening in the right lung?,ABN,Volume loss,OPEN
+242,synpic49914.jpg,CHEST,What is finding in the right lung?,ABN,Volume loss,OPEN
+244,synpic40464.jpg,ABD,How many lesions are in the spleen?,COUNT,one,OPEN
+252,synpic31400.jpg,CHEST,What abnormalities are in the lung apices?,ABN,Nodular opacities,OPEN
+253,synpic31400.jpg,CHEST,What is seen in the lung apices?,ABN,Nodular opacities,OPEN
+255,synpic18319.jpg,CHEST,What can cause asymmetrical breasts?,OTHER,Prior surgery,OPEN
+256,synpic18319.jpg,CHEST,Why are the breasts asymmetrical?,OTHER,Prior surgery,OPEN
+260,synpic57368.jpg,HEAD,How would you describe the abnormalities,ATTRIB,Ring-enhancing lesions,OPEN
+262,synpic56799.jpg,HEAD,What lobe is the lesion located in?,POS,right temporal lobe,OPEN
+263,synpic56799.jpg,HEAD,Where is the abnormality located?,POS,right temporal lobe,OPEN
+264,synpic21734.jpg,ABD,What organ is the mass in?,POS,Pancreas,OPEN
+265,synpic21734.jpg,ABD,Where is the mass?,POS,Pancreas,OPEN
+266,synpic45162.jpg,ABD,What abnormalities are in the right upper quadrant?,PRES,Gallstones,OPEN
+267,synpic45162.jpg,ABD,What is in the right upper quadrant?,PRES,Gallstones,OPEN
+268,synpic29219.jpg,ABD,Which kidney is abnormal?,POS,Right,OPEN
+269,synpic29219.jpg,ABD,Which kidney has abnormalities?,POS,Right,OPEN
+272,synpic51709.jpg,HEAD,What is the image suggestive of?,OTHER,abscess,OPEN
+273,synpic51709.jpg,HEAD,What is the lesion most likely to be?,OTHER,abscess,OPEN
+274,synpic29219.jpg,ABD,Describe the lesions in the right kidney?,ATTRIB,Cystic lesions,OPEN
+275,synpic29219.jpg,ABD,What is seen in the right kidney?,PRES,Cystic lesions,OPEN
+278,synpic21044.jpg,CHEST,How would you describe the aortopulmonary window?,ATTRIB,middle mogul,OPEN
+279,synpic21044.jpg,CHEST,What characteristic finding do you see in the aortopulmonary window?,PRES,middle mogul,OPEN
+280,synpic21044.jpg,CHEST,Which sign do you see in the aortopulmonary window in this image?,PRES,middle mogul,OPEN
+285,synpic49914.jpg,CHEST,Where is the diffuse pleural thickening?,POS,Right lung,OPEN
+286,synpic49914.jpg,CHEST,Which lung is abnormal?,POS,Right lung,OPEN
+292,synpic23130.jpg,ABD,Where is the abnormality?,POS,Right lobe of the liver,OPEN
+293,synpic23130.jpg,ABD,Where is the hypodensity located?,POS,Right lobe of the liver,OPEN
+296,synpic46720.jpg,HEAD,Which hemisphere is the ischemia located?,POS,Right hemisphere,OPEN
+297,synpic46720.jpg,HEAD,Where is the abnormality?,POS,Right PCA,OPEN
+302,synpic18319.jpg,CHEST,Where is the catheter tip located?,POS,Right superior cavoatrial junction,OPEN
+303,synpic18319.jpg,CHEST,Where does the catheter tip extend into?,POS,Right superior cavoatrial junction,OPEN
+304,synpic31400.jpg,CHEST,What kind of image is this?,MODALITY,x-ray,OPEN
+310,synpic46720.jpg,HEAD,What does the abnormality suggest?,Other,Ischemia,OPEN
+311,synpic46720.jpg,HEAD,What causes the hyperintensity?,Other,Ischemia,OPEN
+316,synpic59356.jpg,HEAD,Where is the mass?,POS,Suprasellar cistern,OPEN
+317,synpic59356.jpg,HEAD,Where is the mass located?,POS,Suprasellar cistern,OPEN
+320,synpic29219.jpg,ABD,Which plane is the image taken?,PLANE,Axial,OPEN
+321,synpic57520.jpg,HEAD,Where is this plane relative to the eyes?,PLANE,Above,OPEN
+322,synpic24390.jpg,CHEST,How was this x-ray taken?,PLANE,PA,OPEN
+330,synpic47783.jpg,CHEST,How wide is the cardiac shadow?,SIZE,Less than half the thorax,OPEN
+334,synpic45557.jpg,CHEST,What lesions are present in the lungs?,PRES,,OPEN
+335,synpic21604.jpg,ABD,How big is the liver lesion?,SIZE,5 cm,OPEN
+336,synpic21604.jpg,ABD,What is the size of the mass lesion?,SIZE,5 cm,OPEN
+337,synpic21604.jpg,ABD,What is the modality by which the image was taken?,MODALITY,CT,OPEN
+339,synpic34449.jpg,CHEST,Where in the image are the calcifications located?,POS,High on the image,OPEN
+340,synpic31962.jpg,CHEST,Where is the aortic arch?,POS,Right side,OPEN
+341,synpic31962.jpg,CHEST,Which side of the image is the aortic arch visualized?,POS,Right side,OPEN
+343,synpic19477.jpg,CHEST,Where is the lung lesion located?,POS,Right lung,OPEN
+344,synpic19477.jpg,CHEST,Which lobe of the lung is the lesion located in?,POS,Right upper lobe,OPEN
+347,synpic24220.jpg,ABD,Where in this image are the bowel loops?,POS,Left side,OPEN
+349,synpic41050.jpg,ABD,What indicates that appendicitis is present?,PRES,Periappendiceal fluid and fat stranding,OPEN
+352,synpic27985.jpg,ABD,How many instances of intussusception are in the image?,COUNT,One,OPEN
+355,synpic27985.jpg,ABD,"Besides the intestines, what other organs are present?",PRES,kidneys,OPEN
+360,synpic27985.jpg,ABD,Where is the intussesception located?,POS,Small bowel,OPEN
+361,synpic39532.jpg,CHEST,How many lesions are present in the image?,COUNT,One,OPEN
+366,synpic34836.jpg,HEAD,Where on the image is the lesion?,POS,Left temporal lobe,OPEN
+367,synpic34449.jpg,CHEST,Which side is more clearly visualized?,"POS, PRES",Left,OPEN
+368,synpic34449.jpg,CHEST,Which lung is clearer?,"POS, PRES",Left,OPEN
+369,synpic34449.jpg,CHEST,What are the two major organs present in this image?,ORGAN,Heart 	lungs,OPEN
+375,synpic24390.jpg,CHEST,How wide is the heart compared to the thorax?,SIZE,It is less than half the width of the thorax,OPEN
+379,synpic21995.jpg,ABD,Where is the largest cystic lesion in the image?,POS,Left kidney,OPEN
+382,synpic21995.jpg,ABD,"What is denser, the cystic lesions or the kidney parenchyma?",COLOR,cystic lesions,OPEN
+393,synpic19782.jpg,CHEST,Where is free air trapped subcutaneously in this image?,POS,Above the clavicles bilaterally,OPEN
+395,synpic21604.jpg,ABD,What is the organ system visualized?,ORGAN,Gastrointestinal,OPEN
+399,synpic39532.jpg,CHEST,Where is the lesion?,POS,Right lower lobe,OPEN
+400,synpic39532.jpg,CHEST,Which lung lobe is the lesion present in?,POS,Right lower lobe,OPEN
+405,synpic19477.jpg,CHEST,At which rib is the lesion located?,POS,7th rib,OPEN
+406,synpic19477.jpg,CHEST,What rib is the lesion located inferior to?,POS,7th rib,OPEN
+407,synpic23803.jpg,CHEST,On which side is the cardiac border more obscured?,POS,Right,OPEN
+408,synpic23803.jpg,CHEST,Where is the cardiac border more obscured?,POS,Right,OPEN
+409,synpic33689.jpg,ABD,What organ system is primarily present in this image?,ORGAN,Gastrointestinal,OPEN
+410,synpic19477.jpg,CHEST,Which side of the cardiac border is more prominent?,POS,Left,OPEN
+411,synpic19477.jpg,CHEST,Which cardiac border is more prominently visualized?,POS,Left,OPEN
+416,synpic13385.jpg,CHEST,Which lung has more extensive infiltration?,POS,Left,OPEN
+417,synpic13385.jpg,CHEST,Where are the most infiltrates located?,POS,Left lung,OPEN
+418,synpic33689.jpg,ABD,How would you describe the duodenum?,ATTRIB,Edematous,OPEN
+421,synpic24390.jpg,CHEST,Where is the largest air collection in this image?,POS,Right lung base,OPEN
+422,synpic31955.jpg,CHEST,Where is the lesion located?,POS,Anterior mediastinum,OPEN
+423,synpic31955.jpg,CHEST,What is the location of the primary lesion?,POS,Right lung hilum,OPEN
+426,synpic57520.jpg,HEAD,Which side is the lateral ventricle visible on?,POS,Left,OPEN
+427,synpic57520.jpg,HEAD,Where is the lateral ventricle?,POS,left hemisphere,OPEN
+428,synpic21604.jpg,ABD,Where is the lesion located?,POS,Right lobe,OPEN
+429,synpic21604.jpg,ABD,Which liver lobe is the lesion in?,POS,Right lobe,OPEN
+440,synpic34449.jpg,CHEST,Where is the subcutaneous air collection?,POS,On the right shoulder.,OPEN
+444,synpic23053.jpg,CHEST,What is the opacity near the left lung apex?,PRES,Pacemaker,OPEN
+445,synpic13385.jpg,CHEST,What is in the left apex?,PRES,A bullous lesion,OPEN
+447,synpic31955.jpg,CHEST,Where is the lesion located?,POS,Anterior mediastinum,OPEN
+448,synpic31955.jpg,CHEST,Which side of the heart border is obscured?,POS,Right,OPEN
+449,synpic34449.jpg,CHEST,How was this image taken?,MODALITY,X-ray,OPEN
+450,synpic24220.jpg,ABD,Where are the kidney?,POS,Not seen here,OPEN
+452,synpic23053.jpg,CHEST,Where is the lesion?,POS,In the right hilum,OPEN
+453,synpic23053.jpg,CHEST,Which lobe is the lesion located in?,POS,Upper right lobe,OPEN
+455,synpic35914.jpg,ABD,Where is the colon most prominent from this view?,POS,Left,OPEN
+459,synpic45557.jpg,CHEST,Where on the image is most obscured?,POS,Right lung base,OPEN
+472,synpic53978.jpg,HEAD,What structures are visible in this image?,ORGAN,Skull 	cartilage and medulla,OPEN
+484,synpic52951.jpg,CHEST,What is the organ principally shown in this image?,ORGAN,Lung,OPEN
+490,synpic31916.jpg,CHEST,What is the name of this image's plane?,PLANE,Posteroanterior,OPEN
+491,synpic52951.jpg,CHEST,What type of image is this?,MODALITY,Plain film x-ray,OPEN
+502,synpic60096.jpg,HEAD,What is the plane of this image?,PLANE,Axial,OPEN
+527,synpic39240.jpg,HEAD,What is the plane of this image?,PLANE,Axial,OPEN
+531,synpic50949.jpg,ABD,What type of image is this?,MODALITY,CT with contrast,OPEN
+546,synpic42307.jpg,HEAD,What bright white structures form an X?,PRES,lateral ventricles,OPEN
+547,synpic42307.jpg,HEAD,"What are the bright white structures, almost forming an X""?""",PRES,lateral ventricles,OPEN
+557,synpic28378.jpg,CHEST,What is the likely sex of this patient?,OTHER,Female,OPEN
+570,synpic48749.jpg,HEAD,The dark areas of the image show what type of brain matter?,PRES,White matter,OPEN
+571,synpic46943.jpg,HEAD,Which ventricles are visible?,ORGAN,Lateral ventricles,OPEN
+577,synpic42307.jpg,HEAD,Would you suspect abcess or cancer for this finding?,OTHER,Abscess,OPEN
+579,synpic43648.jpg,ABD,What are the dark areas at the top of the picture?,PRES,Large bowel,OPEN
+580,synpic43648.jpg,ABD,What is the dark space in the body cavity near the top of the image?,PRES,Large bowel,OPEN
+602,synpic47196.jpg,ABD,What hypoattenuated tissue is between the abdominal wall and skin?,PRES,fat,OPEN
+603,synpic47196.jpg,ABD,What is the dark structure underneath the skin?,PRES,fat,OPEN
+642,synpic49027.jpg,HEAD,what is the secondary pathology?,ABN,moderate edema,OPEN
+643,synpic49027.jpg,HEAD,What is the secondary abnormality in this image?,ABN,moderate edema,OPEN
+646,synpic22037.jpg,CHEST,Where is the tip of the line?,POS,mid left subclavian vein,OPEN
+647,synpic22037.jpg,CHEST,Where is the tip of the Port-a-Cath catheter located?,POS,mid left subclavian vein,OPEN
+661,synpic24424.jpg,ABD,What is the location of the mass,POS,anterior to the transverse colon,OPEN
+662,synpic24424.jpg,ABD,where is the mass located?,POS,anterior to the transverse colon,OPEN
+674,synpic49027.jpg,HEAD,What is the primary abnormality in this image?,ABN,ring enhancing lesion in the left occipital lobe,OPEN
+675,synpic49027.jpg,HEAD,what is the primary pathology,ABN,ring enhancing lesion in the left occipital lobe,OPEN
+678,synpic51383.jpg,HEAD,How was this image taken,MODALITY,T2-MRI,OPEN
+681,synpic44995.jpg,HEAD,The pathology is located in which lobes of the brain?,"POS, ABN",parietal and occipital lobes,OPEN
+682,synpic44995.jpg,HEAD,which lobes demonstrate pathology,"POS, ABN",parietal and occipital lobes,OPEN
+683,synpic39301.jpg,HEAD,What is the likely pathology?,OTHER,PRES,OPEN
+684,synpic39301.jpg,HEAD,What is the most likely cause of these abnormalities?,OTHER,PRES,OPEN
+687,synpic18651.jpg,CHEST,Describe the pathology,ABN,cardiomegaly with pulmonary edema,OPEN
+688,synpic18651.jpg,CHEST,what is the pathology?,ABN,cardiomegaly with pulmonary edema,OPEN
+690,synpic39301.jpg,HEAD,What organ system is displayed?,ORGAN,CNS,OPEN
+695,synpic43433.jpg,ABD,what is the location of the mass?,POS,cecum,OPEN
+696,synpic43433.jpg,ABD,Where is the mass?,POS,cecum,OPEN
+700,synpic51383.jpg,HEAD,What organ system is this?,ORGAN,CNS,OPEN
+701,synpic55464.jpg,CHEST,what it causing the widening?,OTHER,mass,OPEN
+702,synpic55464.jpg,CHEST,What is the widened mediastinum caused by?,OTHER,mass,OPEN
+705,synpic32962.jpg,CHEST,What organ system is the pathology?,ORGAN,pulmonary/lymphatic,OPEN
+706,synpic32962.jpg,CHEST,What is the modality?,MODALITY,CXR,OPEN
+710,synpic51926.jpg,ABD,in what system is the pathology?,ORGAN,GI,OPEN
+711,synpic51926.jpg,ABD,What system is this pathology in?,ORGAN,GI,OPEN
+718,synpic23989.jpg,CHEST,What plane is demonstrated?,PLANE,Coronal,OPEN
+721,synpic49027.jpg,HEAD,How would you characterize the lesion?,ATTRIB,ring enhancing lesion,OPEN
+722,synpic49027.jpg,HEAD,What is the characterization of the lesion,ATTRIB,ring enhancing lesion,OPEN
+723,synpic51872.jpg,CHEST,what is the location of the cavitary lesion,POS,Right upper lobe,OPEN
+724,synpic51872.jpg,CHEST,Where is the cavitary lesion located?,POS,Right upper lobe,OPEN
+731,synpic23989.jpg,CHEST,What is the pathology?,ABN,Left Apical Pneumothorax,OPEN
+732,synpic23989.jpg,CHEST,What pathology is shown?,ABN,Left Apical Pneumothorax,OPEN
+735,synpic55464.jpg,CHEST,What plane is this film,PLANE,coronal,OPEN
+740,synpic51383.jpg,HEAD,What is the lesion's disease origin?,OTHER,vascular,OPEN
+741,synpic51383.jpg,HEAD,"What disease origin is the lesion(eg, vascular vs. neoplastic)?",OTHER,vascular,OPEN
+746,synpic24424.jpg,ABD,what is the composition of the mass?,ATTRIB,fat,OPEN
+747,synpic24424.jpg,ABD,What is this mass primarily made of?,ATTRIB,fat,OPEN
+750,synpic46976.jpg,CHEST,What is the pathology in this image?,ABN,cardiomegaly,OPEN
+751,synpic46976.jpg,CHEST,what pathology is demonstrated?,ABN,cardiomegaly,OPEN
+758,synpic31259.jpg,CHEST,This radiograph contains what foreign body?,PRES,sternotomy wires and surgical clips,OPEN
+759,synpic31259.jpg,CHEST,what is the foreign body,PRES,sternotomy wires and surgical clips,OPEN
+760,synpic21700.jpg,ABD,what is the location of the mass?,POS,head of the pancreas,OPEN
+761,synpic21700.jpg,ABD,Where is the mass located?,POS,head of the pancreas,OPEN
+762,synpic22037.jpg,CHEST,what is the plane?,PLANE,coronal,OPEN
+763,synpic39301.jpg,HEAD,What modality is shown?,MODALITY,FLAIR MRI,OPEN
+768,synpic38858.jpg,HEAD,What type of MRI sequence is displayed in this image?,MODALITY,T2 weighted MRI,OPEN
+801,synpic55317.jpg,HEAD,In what plane is this MRI taken?,PLANE,Axial,OPEN
+802,synpic21042.jpg,CHEST,What type of imaging modality is seen in this image?,MODALITY,X-ray plain film,OPEN
+806,synpic21042.jpg,CHEST,What is one organ system seen in this image?,ORGAN,Respiratory System,OPEN
+810,synpic35155.jpg,ABD,What part of the body is being imaged?,ORGAN,The abdomen,OPEN
+811,synpic27047.jpg,CHEST,What type of imaging modality is this?,MODALITY,Xray - plain film,OPEN
+816,synpic34854.jpg,HEAD,What type of MRI sequence is this?,MODALITY,Diffusion Weighted Imaging (DWI),OPEN
+817,synpic20208.jpg,ABD,In what plane was this image taken?,PLANE,Axial plane,OPEN
+835,synpic53635.jpg,ABD,What imaging modality is seen here?,MODALITY,CT with GI and IV contrast,OPEN
+846,synpic53635.jpg,ABD,What part of the body is being imaged here?,ORGAN,abdomen,OPEN
+850,synpic45914.jpg,HEAD,Where is the bleed?,POS,Subarachnoid,OPEN
+851,synpic45914.jpg,HEAD,What kind of brain bleed is this?,PRES,Subarachnoid,OPEN
+853,synpic54004.jpg,HEAD,Where is the enhancement in left rectus muscles?,POS,Medial rectus,OPEN
+854,synpic54004.jpg,HEAD,Which rectus muscles are enhanced on the left?,POS,Medial rectus,OPEN
+857,synpic26248.jpg,CHEST,Diaphragm is elevated on which side?,POS,Right,OPEN
+858,synpic26248.jpg,CHEST,Which side of the diaphragm is elevated?,POS,Right,OPEN
+859,synpic41119.jpg,ABD,Where does the L renal vein connect to,PRES,IVC,OPEN
+860,synpic41119.jpg,ABD,Where does the L renal vein drain into?,PRES,IVC,OPEN
+862,synpic17848.jpg,CHEST,What type of image is this?,MODALITY,Chest xray,OPEN
+865,synpic54802.jpg,HEAD,What side are the infarcts located?,POS,Bilateral,OPEN
+866,synpic54802.jpg,HEAD,Where are the infarcts seen?,POS,Bilateral,OPEN
+870,synpic45634.jpg,HEAD,How would you describe the lesions?,ATTRIB,Loculated,OPEN
+871,synpic45634.jpg,HEAD,What is one adjective to describe the lesion(s)?,ATTRIB,Loculated,OPEN
+875,synpic53033.jpg,HEAD,What side of the brain is a lesion on?,POS,Left,OPEN
+877,synpic22097.jpg,CHEST,What kind of image is this?,MODALITY,chest x Ray,OPEN
+878,synpic22097.jpg,CHEST,What modality is this?,MODALITY,chest x Ray,OPEN
+881,synpic54004.jpg,HEAD,Where is the enhancement in right rectus muscles?,POS,Medial and lateral rectus,OPEN
+882,synpic54004.jpg,HEAD,Which Rectus muscles are enhanced on the right?,POS,Medial and lateral rectus,OPEN
+886,synpic35191.jpg,HEAD,What plane is this?,PLANE,Axial,OPEN
+889,synpic53097.jpg,HEAD,What is the location of the mass?,SIZE,Pineal gland,OPEN
+890,synpic53097.jpg,HEAD,Where is the mass located?,SIZE,Pineal gland,OPEN
+894,synpic26248.jpg,CHEST,The air fluid level is in which location?,POS,Cardiac region,OPEN
+895,synpic26248.jpg,CHEST,Where is there an air fluid level?,POS,Cardiac region,OPEN
+896,synpic40520.jpg,CHEST,Where is there evidence of a pleural effusion?,POS,Right side,OPEN
+897,synpic40520.jpg,CHEST,Where is the pleural effusion located?,POS,Right side,OPEN
+900,synpic54802.jpg,HEAD,What do the hyperdensities represent?,PRES,Infarct,OPEN
+901,synpic54802.jpg,HEAD,What are the hyperdensities indicative of?,PRES,Infarct,OPEN
+903,synpic57813.jpg,HEAD,What type of image modality is this?,MODALITY,MR FLAIR,OPEN
+904,synpic57813.jpg,HEAD,Which image modality is this?,MODALITY,MR FLAIR,OPEN
+905,synpic17693.jpg,CHEST,How is the image oriented?,PLANE,PA,OPEN
+906,synpic17693.jpg,CHEST,What plane is this X-ray in?,PLANE,PA,OPEN
+909,synpic41119.jpg,ABD,What side of the abdomen is the aorta on?,POS,Left,OPEN
+910,synpic41119.jpg,ABD,Where is the aorta located relative to the midline?,POS,Left,OPEN
+911,synpic22097.jpg,CHEST,Which side is abnormal?,POS,Left,OPEN
+912,synpic22097.jpg,CHEST,Which lung has a defect?,POS,Left,OPEN
+916,synpic45634.jpg,HEAD,What area is abnormal?,POS,Right cerebellum,OPEN
+917,synpic45634.jpg,HEAD,Where is/are the abnormality located?,POS,Right cerebellum,OPEN
+918,synpic54802.jpg,HEAD,Where are the acute infarcts?,POS,R frontal lobe,OPEN
+919,synpic54802.jpg,HEAD,Where do you see acute infarcts?,POS,R frontal lobe,OPEN
+920,synpic57813.jpg,HEAD,In which area of the brain are the infarcts found?,POS,Right Cerebellum,OPEN
+921,synpic57813.jpg,HEAD,Where are the infarcts located?,POS,Right Cerebellum,OPEN
+922,synpic17848.jpg,CHEST,What organ systems can be evaluated with this image?,ORGAN,Respiratory 	cardia c	musculoskeletal,OPEN
+925,synpic52732.jpg,HEAD,What side is the lesion located on?,POS,Right,OPEN
+926,synpic52732.jpg,HEAD,Where is the lesion?,POS,Right,OPEN
+935,synpic59131.jpg,HEAD,What is seen in the occipital lobe?,PRES,Ring enhancing lesion,OPEN
+936,synpic59131.jpg,HEAD,What is abnormal about the occipital lobe?,PRES,Ring enhancing lesion,OPEN
+940,synpic41119.jpg,ABD,What plane is this image in?,PLANE,Axial,OPEN
+941,synpic41119.jpg,ABD,Which plane is the image shown in?,PLANE,Axial,OPEN
+942,synpic35191.jpg,HEAD,Where are the lesions located?,POS,bilateral cerebellum,OPEN
+943,synpic35191.jpg,HEAD,Where are the lesions located?,POS,bilateral cerebellum,OPEN
+946,synpic49862.jpg,HEAD,Where is the lesion located?,POS,Left Parietal lobe,OPEN
+947,synpic49862.jpg,HEAD,Which lobe is the lesion in?,POS,Left Parietal lobe,OPEN
+950,synpic16407.jpg,CHEST,What type of image is this?,MODALITY,Chest X-ray,OPEN
+951,synpic16407.jpg,CHEST,What image modality is this?,MODALITY,Chest X-ray,OPEN
+952,synpic26248.jpg,CHEST,What are the hyperdense findings in the mediastinum?,PRES,Sternal wires,OPEN
+953,synpic26248.jpg,CHEST,What are seen as hyperdense in the mediastinum of this image?,PRES,Sternal wires,OPEN
+958,synpic18896.jpg,CHEST,What is the abnormality seen above the heart on the patient's right side?,PRES,right sided aortic arch,OPEN
+959,synpic18896.jpg,CHEST,what is the bump seen above the heart on the patient's right side?,PRES,right sided aortic arch,OPEN
+961,synpic23631.jpg,HEAD,Brain structure shown in this image?,PRES,cerebellum,OPEN
+962,synpic23631.jpg,HEAD,What part of the brain is seen in this image?,PRES,cerebellum,OPEN
+963,synpic60254.jpg,HEAD,What type of imaging modality is used to acquire the above image?,MODALITY,MRI - T2 weighted,OPEN
+964,synpic37605.jpg,HEAD,What lobe of the brain is the lesion located in?,POS,Right frontal lobe,OPEN
+965,synpic37605.jpg,HEAD,Where is the brain lesion located?,POS,Right frontal lobe,OPEN
+966,synpic46062.jpg,HEAD,The image is taken in what plane?,PLANE,axial,OPEN
+967,synpic46062.jpg,HEAD,What plane is the above image acquired in?,PLANE,axial,OPEN
+968,synpic31394.jpg,CHEST,In what plane is the above taken?,PLANE,PA,OPEN
+970,synpic52828.jpg,ABD,Is this image taken with or without contrast?,MODALITY,with contrast,OPEN
+971,synpic52828.jpg,ABD,Was contrast used to take this image?,MODALITY,with contrast,OPEN
+974,synpic32970.jpg,CHEST,What is the location of the lesion?,POS,right lower lateral lung field,OPEN
+975,synpic32970.jpg,CHEST,Where is the lesion located?,POS,right lower lateral lung field,OPEN
+976,synpic17738.jpg,CHEST,How large is the mass in the right upper quadrant?,SIZE,3.4 cm,OPEN
+977,synpic17738.jpg,CHEST,Size of the mass in the right upper quadrant?,SIZE,3.4 cm,OPEN
+980,synpic46062.jpg,HEAD,What is the location of the mass?,POS,sella and suprasellar cistern,OPEN
+981,synpic46062.jpg,HEAD,Where is the mass located?,POS,sella and suprasellar cistern,OPEN
+983,synpic42805.jpg,CHEST,What is the biological sex of the patient?,OTHER,Female,OPEN
+984,synpic17153.jpg,HEAD,MRI imaging modality used for this image?,MODALITY,T2 weighted,OPEN
+985,synpic17153.jpg,HEAD,What type of MRI is used to acquire this image?,MODALITY,T2 weighted,OPEN
+986,synpic30273.jpg,ABD,"The patient's left contains a bright round organ, what is it?",PRES,Left kidney,OPEN
+987,synpic30273.jpg,ABD,What is the bright round organ seen on the patient's left?,PRES,Left kidney,OPEN
+990,synpic46062.jpg,HEAD,What organ system is shown in the above image?,ORGAN,Brain,OPEN
+991,synpic46062.jpg,HEAD,What is the organ system in this image?,ORGAN,Brain,OPEN
+993,synpic57317.jpg,HEAD,What organ system is being imaged?,ORGAN,Brain,OPEN
+996,synpic51426.jpg,HEAD,The hemorrhage is adjacent to what structures?,PRES,Left thalamus and basal ganglia,OPEN
+997,synpic51426.jpg,HEAD,What structures are located near the hemorrhage shown?,PRES,Left thalamus and basal ganglia,OPEN
+998,synpic60254.jpg,HEAD,What cranial nerves may be affected by the lesion seen in the above image?,ABN,Oculomotor nerve (CN III) and Trigeminal nerves (CN V),OPEN
+999,synpic60254.jpg,HEAD,Which cranial nerves are possibly affected by this lesion?,ABN,Oculomotor nerve (CN III) and Trigeminal nerves (CN V),OPEN
+1003,synpic51426.jpg,HEAD,What type of MRI is this?,MODALITY,T2,OPEN
+1004,synpic51426.jpg,HEAD,What is the modality of this MRI?,MODALITY,T2,OPEN
+1005,synpic18896.jpg,CHEST,Imaging modality used to take this image?,MODALITY,PA Xray,OPEN
+1006,synpic18896.jpg,CHEST,What imaging modality is used to acquire this picture?,MODALITY,PA Xray,OPEN
+1007,synpic60254.jpg,HEAD,What major artery of the brain may be affected by the lesion seen in the above image?,PRES,Basilar artery,OPEN
+1008,synpic60254.jpg,HEAD,Which major artery of the brain is affected by this lesion?,PRES,Basilar artery,OPEN
+1009,synpic37605.jpg,HEAD,What MRI imaging sequence is shown above?,MODALITY,T2 weighted,OPEN
+1010,synpic37605.jpg,HEAD,What type of MRI is shown in the above image?,MODALITY,T2 weighted,OPEN
+1021,synpic59536.jpg,HEAD,Where are the brain lesions located?,POS,Right hemisphere,OPEN
+1022,synpic59536.jpg,HEAD,Which hemisphere of the brain are the lesions located in?,POS,Right hemisphere,OPEN
+1027,synpic53287.jpg,HEAD,What ventricle is the lesion compressing?,ABN,4th ventricle,OPEN
+1028,synpic53287.jpg,HEAD,Which ventricle is compressed by the lesion?,ABN,4th ventricle,OPEN
+1030,synpic57317.jpg,HEAD,Where do you see a large hematoma?,POS,right lateral ventricle,OPEN
+1031,synpic57317.jpg,HEAD,Where is the large hematoma located?,POS,right lateral ventricle,OPEN
+1032,synpic56422.jpg,HEAD,What organ system is shown in the above image?,ORGAN,Brain,OPEN
+1033,synpic56422.jpg,HEAD,Which organ system is shown in the image?,ORGAN,Brain,OPEN
+1034,synpic59536.jpg,HEAD,MRI imaging modality used?,MODALITY,DWI,OPEN
+1035,synpic59536.jpg,HEAD,What type of MRI is the above image?,MODALITY,DWI,OPEN
+1038,synpic53287.jpg,HEAD,In which brain area is the lesion located?,POS,Right cerebellopontine angle,OPEN
+1039,synpic53287.jpg,HEAD,Where is the lesion located?,POS,Right cerebellopontine angle,OPEN
+1042,synpic51426.jpg,HEAD,In what plane is the image above captured?,PLANE,Axial,OPEN
+1043,synpic27576.jpg,ABD,What organ contains multiple lesions in the above image?,PRES,Kidneys,OPEN
+1044,synpic27576.jpg,ABD,Which organ has multiple lesions?,PRES,Kidneys,OPEN
+1047,synpic31256.jpg,CHEST,How was this image taken?,MODALITY,X-ray,OPEN
+1048,synpic31256.jpg,CHEST,What imaging modality is seen?,MODALITY,X-ray,OPEN
+1051,synpic17738.jpg,CHEST,What organ system is being imaged?,ORGAN,Chest,OPEN
+1052,synpic30273.jpg,ABD,The tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?,OTHER,Adipose tissue,OPEN
+1053,synpic30273.jpg,ABD,The tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?,OTHER,Adipose tissue,OPEN
+1054,synpic56422.jpg,HEAD,How was this MRI taken?,MODALITY,DWI,OPEN
+1055,synpic56422.jpg,HEAD,What type of MRI is this?,MODALITY,DWI,OPEN
+1056,synpic42805.jpg,CHEST,In which lobes do you see a higher density of masses?,POS,Upper lobes,OPEN
+1057,synpic42805.jpg,CHEST,Which lobes of the lung contain a higher density of masses?,POS,Upper lobes,OPEN
+1060,synpic60254.jpg,HEAD,The lesion seen in the image above is isointense to what object that is normally found in the brain?,OTHER,CSF,OPEN
+1061,synpic60254.jpg,HEAD,The lesion is isointense to what object normally found in the brain?,OTHER,CSF,OPEN
+1064,synpic23631.jpg,HEAD,In what plane is this image taken?,PLANE,axial,OPEN
+1065,synpic57317.jpg,HEAD,What imaging modality is used?,MODALITY,MRI - T1 weighted,OPEN
+1066,synpic57317.jpg,HEAD,The condition in which a patient has enlarged ventricles as seen in this image?,PRES,Hydrocephalus,OPEN
+1067,synpic57317.jpg,HEAD,What is the condition in which the ventricles are enlarged as seen in this image?,PRES,Hydrocephalus,OPEN
+1068,synpic60254.jpg,HEAD,What organ system is visualized in the above image?,ORGAN,Brain,OPEN
+1069,synpic52828.jpg,ABD,How was this image taken?,MODALITY,CT,OPEN
+1070,synpic52828.jpg,ABD,What imaging modality is used?,MODALITY,CT,OPEN
+1072,synpic17738.jpg,CHEST,In which lobe do you see an abnormal mass in the above images?,POS,Right upper lobe,OPEN
+1073,synpic17738.jpg,CHEST,Where is the abnormal mass located with respect to the lungs?,POS,Right upper lobe,OPEN
+1076,synpic31256.jpg,CHEST,The azygoesophageal recess is deviated in which direction?,POS,right,OPEN
+1077,synpic31256.jpg,CHEST,Which direction is the azygoesophageal recess deviated?,POS,right,OPEN
+1078,synpic17145.jpg,CHEST,In which side is the hemidiaphragm elevated?,POS,right,OPEN
+1079,synpic17145.jpg,CHEST,Which diaphragm is elevated?,POS,right,OPEN
+1083,synpic17738.jpg,CHEST,What imaging modality was used to take this image?,MODALITY,Xray,OPEN
+1084,synpic23631.jpg,HEAD,Where is the abnormality?,POS,Right posteroinferior cerebellum,OPEN
+1085,synpic23631.jpg,HEAD,What abnormality is present?,PRES,bleeding in the right posteroinferior cerebellum,OPEN
+1094,synpic20626.jpg,HEAD,Where is the lesion located?,POS,Left cerebellum,OPEN
+1095,synpic20626.jpg,HEAD,Where is the abnormality in this image?,POS,Left cerebellum,OPEN
+1111,synpic22791.jpg,ABD,What is the hypodensity in the liver?,PRES,Gallbladder,OPEN
+1113,synpic22791.jpg,ABD,What are the hyperdensities on the periphery of the left side,PRES,Ribs,OPEN
+1114,synpic22791.jpg,ABD,What are the foci of hyperdensities on the left?,PRES,Ribs,OPEN
+1115,synpic38069.jpg,HEAD,Where is the abnormality in this image?,POS,Choroid plexus,OPEN
+1116,synpic38069.jpg,HEAD,Where is the mass located?,POS,Lateral ventricles,OPEN
+1122,synpic16221.jpg,CHEST,What is the patient's gender?,OTHER,Female,OPEN
+1133,synpic16221.jpg,CHEST,How can you tell there is no pneumothorax present?,OTHER,Lung markings present all the way laterally to the ribs,OPEN
+1144,synpic33331.jpg,CHEST,What is located immediately inferior to the right hemidiaphragm?,ORGAN,The liver,OPEN
+1148,synpic50958.jpg,ABD,What radiographic sign is seen in the intestines,PRES,air fluid level,OPEN
+1149,synpic50958.jpg,ABD,What is the finding in lumen of the intestine called?,PRES,air fluid level,OPEN
+1151,synpic28277.jpg,ABD,What are the multiple round hyperdensities located immediately inferior to the musculature?,PRES,Intestine,OPEN
+1152,synpic28277.jpg,ABD,What are the anterior circular hyperdensities?,PRES,Intestine,OPEN
+1155,synpic33302.jpg,CHEST,What is the air under the left hemidiaphragm?,PRES,Stomach bubble,OPEN
+1156,synpic33302.jpg,CHEST,What is hyperdensity under the diaphragm on the left?,PRES,Stomach bubble,OPEN
+1159,synpic59935.jpg,HEAD,Where is the infarct?,POS,Left cerebellum,OPEN
+1160,synpic59935.jpg,HEAD,Which vessel is infarcted in this image?,POS,Right PICA,OPEN
+1161,synpic34922.jpg,HEAD,What signs of cerebral edema are present?,PRES,Sulcal effacement,OPEN
+1162,synpic34922.jpg,HEAD,Which signs of edema are visualized here?,PRES,Sulcal effacement,OPEN
+1165,synpic59935.jpg,HEAD,What area of cerebrum is visible?,PRES,Temporal lobe,OPEN
+1166,synpic59935.jpg,HEAD,Which lobe of the cerebrum is visible?,PRES,Temporal lobe,OPEN
+1167,synpic37275.jpg,ABD,Which vertebral level is this image?,PRES,L2,OPEN
+1168,synpic37275.jpg,ABD,What level of the spine is most likely seen here?,PRES,L2-3,OPEN
+1172,synpic20626.jpg,HEAD,What are the black areas at the top of the image?,PRES,Maxillary sinuses,OPEN
+1173,synpic20626.jpg,HEAD,What does the least dense region represent,PRES,Maxillary sinuses,OPEN
+1175,synpic46764.jpg,HEAD,Where is the lesion located?,POS,Left occipital lobe,OPEN
+1176,synpic46764.jpg,HEAD,Which lobe is the lesion in?,POS,Left occipital lobe,OPEN
+1178,synpic34922.jpg,HEAD,Where is the lesion located?,POS,Right temporal lobe,OPEN
+1179,synpic34922.jpg,HEAD,Where is the cortical lesion?,POS,Right temporal lobe,OPEN
+1188,synpic28569.jpg,ABD,Where is the abnormality in this image?,POS,Left kidney,OPEN
+1189,synpic28569.jpg,ABD,Where is the lesion located?,POS,Left kidney,OPEN
+1196,synpic29771.jpg,ABD,What skeletal joint is seen in this image?,PRES,Sacroiliac joint,OPEN
+1201,synpic28277.jpg,ABD,What material is the peripheral hypodensity?,PRES,Fat,OPEN
+1202,synpic28277.jpg,ABD,What is the the dark gray surrounding the periphery of the image?,PRES,Fat,OPEN
+1207,synpic20375.jpg,HEAD,What side is the lesion on?,POS,Right,OPEN
+1212,synpic47974.jpg,ABD,What are the hyperdensities on the periphery of the image?,PRES,Ribs,OPEN
+1213,synpic47974.jpg,ABD,What are the hyperdense opacities located around the periphery?,PRES,Ribs,OPEN
+1232,synpic50958.jpg,ABD,What does the small white lesions in the aorta mean,PRES,Calcification,OPEN
+1233,synpic50958.jpg,ABD,What do the hyperdensities in the aorta suggest?,PRES,Calcification,OPEN
+1245,synpic40426.jpg,ABD,What is the shape of the mass?,ATTRIB,Elliptical,OPEN
+1246,synpic40426.jpg,ABD,What is the form of the mass?,ATTRIB,Elliptical,OPEN
+1248,synpic19232.jpg,CHEST,Describe the borders of the lesion.,ATTRIB,Smooth,OPEN
+1249,synpic19232.jpg,CHEST,How are the borders of the lesion?,ATTRIB,Smooth,OPEN
+1250,synpic48091.jpg,HEAD,What is the location of the mass?,POS,Left temporal horn,OPEN
+1251,synpic48091.jpg,HEAD,Where is the mass?,POS,Left temporal horn,OPEN
+1257,synpic51212.jpg,HEAD,Can you name the organ captured by this image?,ORGAN,Brain,OPEN
+1258,synpic51212.jpg,HEAD,How would you describe the lesion?,ATTRIB,Ring-enhancing,OPEN
+1259,synpic51212.jpg,HEAD,What is this type of lesion called?,PRES,Ring-enhancing,OPEN
+1260,synpic31217.jpg,CHEST,What is the location of the abnormality?,POS,Right lung,OPEN
+1261,synpic31217.jpg,CHEST,Where is the abnormality?,POS,Right lung,OPEN
+1262,synpic32081.jpg,CHEST,What is the location of the abnormality?,POS,Right side of the trachea,OPEN
+1263,synpic32081.jpg,CHEST,Where is the abnormality?,POS,Right side of the trachea,OPEN
+1264,synpic55583.jpg,HEAD,Which plane is this image in?,PLANE,Axial,OPEN
+1265,synpic53207.jpg,HEAD,The bottom of the image indicates what area of the brain?,ORGAN,Posterior brain,OPEN
+1275,synpic45364.jpg,ABD,What is the location of the lesion?,POS,Abdomen and pelvis,OPEN
+1276,synpic45364.jpg,ABD,Where is the lesion?,POS,Abdomen and pelvis,OPEN
+1277,synpic47020.jpg,HEAD,What is wrong with the ventricles?,ABN,Lateral and third ventricular hydrocephalus,OPEN
+1278,synpic47020.jpg,HEAD,What ventricular abnormalities are seen?,ABN,Lateral and third ventricular hydrocephalus,OPEN
+1286,synpic19232.jpg,CHEST,How would you describe the location of the lesion?,POS,Retrocardiac,OPEN
+1287,synpic19232.jpg,CHEST,Where is the lesion located?,POS,Retrocardiac,OPEN
+1296,synpic51212.jpg,HEAD,How was this image taken?,MODALITY,MRI,OPEN
+1299,synpic34054.jpg,ABD,What is the condition of the patient,ABN,Blind loop syndrome,OPEN
+1300,synpic34054.jpg,ABD,What abnormality is seen?,ABN,Blind-ending loop of bowel arising from the cecum,OPEN
+1303,synpic47020.jpg,HEAD,What is the location of the mass?,POS,Pineal region,OPEN
+1304,synpic47020.jpg,HEAD,Where is the mass?,POS,Pineal region,OPEN
+1309,synpic55583.jpg,HEAD,Where are the lesions?,POS,Bilateral frontal lobes,OPEN
+1310,synpic53207.jpg,HEAD,What type of image is this?,MODALITY,MRI-DWI,OPEN
+1312,synpic24878.jpg,ABD,What is the location of the abnormality?,POS,Right colon,OPEN
+1313,synpic24878.jpg,ABD,Where is the abnormal finding?,POS,Right colon,OPEN
+1314,synpic27646.jpg,CHEST,What plane is seen?,PLANE,PA,OPEN
+1315,synpic48091.jpg,HEAD,How would you describe the mass?,ATTRIB,Isointense,OPEN
+1316,synpic48091.jpg,HEAD,What are the characteristics of the mass?,ATTRIB,Isointense,OPEN
+1317,synpic31217.jpg,CHEST,Which plane is this image taken in?,PLANE,PA,OPEN
+1319,synpic47020.jpg,HEAD,What is the radiological description of the mass?,COLOR,Hyperintense,OPEN
+1330,synpic24878.jpg,ABD,What is the condition?,ABN,Diverticulitis,OPEN
+1331,synpic24878.jpg,ABD,What is the pathology?,ABN,Diverticulitis,OPEN
+1333,synpic27646.jpg,CHEST,How can the distribution in this image be described?,ATTRIB,Micronodular,OPEN
+1334,synpic27646.jpg,CHEST,What type of distributions is seen on this image?,ATTRIB,Micronodular,OPEN
+1335,synpic40426.jpg,ABD,What is the location of the mass?,POS,Left rectus abdominus,OPEN
+1336,synpic40426.jpg,ABD,Where is the mass?,POS,Left rectus abdominus,OPEN
+1343,synpic42210.jpg,CHEST,What do the two bright dots represent?,PRES,nipple location,OPEN
+1344,synpic42210.jpg,CHEST,What are the two hyperlucent inferior dots?,PRES,nipple location,OPEN
+1345,synpic23648.jpg,ABD,In what plane was this image taken?,PLANE,Axial,OPEN
+1346,synpic54391.jpg,HEAD,What are the locations of the hyperintensities?,POS,bilateral frontal lobes and body of corpus callosum,OPEN
+1347,synpic54391.jpg,HEAD,Where are the hyperintensities located?,POS,bilateral frontal lobes and body of corpus callosum,OPEN
+1351,synpic100176.jpg,CHEST,What laterality is this film?,MODALITY,PA,OPEN
+1352,synpic56344.jpg,HEAD,What artery is the embolus from?,OTHER,distal basilar artery,OPEN
+1353,synpic56344.jpg,HEAD,Where is the embolus located?,POS,distal basilar artery,OPEN
+1356,synpic53867.jpg,HEAD,The mass is located in what region?,POS,suprasellar,OPEN
+1357,synpic53867.jpg,HEAD,Where is the mass located?,POS,suprasellar,OPEN
+1360,synpic54391.jpg,HEAD,The imaging modality is...?,MODALITY,MRI/FLAIR,OPEN
+1361,synpic54391.jpg,HEAD,What is the image modality?,MODALITY,MRI/FLAIR,OPEN
+1367,synpic33892.jpg,ABD,What image modality is this?,MODALITY,CT,OPEN
+1368,synpic33892.jpg,ABD,What imaging modality was used,MODALITY,CT,OPEN
+1373,synpic45699.jpg,HEAD,What two tributaries of blood vessels are impacted?,ABN,left ACA and MCA,OPEN
+1374,synpic45699.jpg,HEAD,Which blood vessels are affected?,ABN,left ACA and MCA,OPEN
+1380,synpic12210.jpg,CHEST,What imaging modality was used?,MODALITY,x-ray,OPEN
+1381,synpic12210.jpg,CHEST,What type of image is this?,MODALITY,x-ray,OPEN
+1384,synpic52248.jpg,HEAD,What organ is affected by pathology in this image?,ABN,brain,OPEN
+1385,synpic52248.jpg,HEAD,What structures are involved?,ABN,"Caudate, putamen, left parietal",OPEN
+1386,synpic56061.jpg,HEAD,Where is the pathology located?,POS,anterior cerebrum,OPEN
+1387,synpic56061.jpg,HEAD,Which region of the brain is impacted?,POS,Anterior surface,OPEN
+1390,synpic23648.jpg,ABD,What is behind the liver?,PRES,ascites,OPEN
+1391,synpic23648.jpg,ABD,What finding is associated with liver?,PRES,ascites,OPEN
+1392,synpic56061.jpg,HEAD,What type of image is this?,MODALITY,MRI-FLAIR,OPEN
+1393,synpic56061.jpg,HEAD,what imaging modality was used,MODALITY,MRI-FLAIR,OPEN
+1396,synpic52248.jpg,HEAD,What imaging plane is depicted here?,PLANE,axial,OPEN
+1397,synpic52248.jpg,HEAD,What is the plane?,PLANE,axial,OPEN
+1400,synpic31757.jpg,ABD,What is the location of the mass?,POS,right kidney,OPEN
+1401,synpic31757.jpg,ABD,Where is the mass located?,POS,right kidney,OPEN
+1402,synpic28718.jpg,ABD,How was this image taken?,MODALITY,With contrast,OPEN
+1403,synpic54391.jpg,HEAD,What do the hyperintensities likely represent?,PRES,Hemorrhage,OPEN
+1404,synpic54391.jpg,HEAD,What are the hyperintensities signaling?,PRES,Hemorrhage,OPEN
+1408,synpic22794.jpg,ABD,What pathology does the image represent,ABN,kidney cyst,OPEN
+1409,synpic22794.jpg,ABD,What is the mass most likely?,PRES,kidney cyst,OPEN
+1410,synpic23008.jpg,ABD,How was this image taken?,MODALITY,With contrast,OPEN
+1413,synpic24967.jpg,ABD,What is the lighter substance around the gallbladder,PRES,Pericholecystic fluid,OPEN
+1414,synpic27142.jpg,HEAD,What type of imaging was used?,MODALITY,MR - T2 weighted,OPEN
+1415,synpic27142.jpg,HEAD,Which image modality is this?,MODALITY,MR - T2 weighted,OPEN
+1416,synpic45699.jpg,HEAD,What is the plane?,PLANE,axial,OPEN
+1417,synpic45699.jpg,HEAD,What plane was used?,PLANE,axial,OPEN
+1420,synpic25105.jpg,ABD,What is wrong with the pancreas?,ABN,fatty infiltration,OPEN
+1421,synpic25105.jpg,ABD,What pathology does the pancreas deominstrate?,ABN,fatty infiltration,OPEN
+1423,synpic28210.jpg,ABD,What organ exhibits pathology,ABN,jejunum,OPEN
+1424,synpic28210.jpg,ABD,Which part of the bowel is involved by the mass?,ABN,jejunum,OPEN
+1425,synpic24967.jpg,ABD,What plane are we in?,PLANE,Axial,OPEN
+1426,synpic45699.jpg,HEAD,What is the modality used?,MODALITY,MR - ADC Map,OPEN
+1427,synpic45699.jpg,HEAD,What imaging method was used?,MODALITY,MR - ADC Map,OPEN
+1434,synpic12210.jpg,CHEST,What is at the base of the right lung?,PRES,nodules,OPEN
+1435,synpic12210.jpg,CHEST,What pathology is shown at the lung bases?,PRES,nodules,OPEN
+1436,synpic56061.jpg,HEAD,How was the image taken?,PLANE,axial,OPEN
+1437,synpic56061.jpg,HEAD,What plane was used in this image?,PLANE,axial,OPEN
+1439,synpic42210.jpg,CHEST,What image modality is this?,MODALITY,X-ray,OPEN
+1442,synpic28718.jpg,ABD,The abscess is located in what structure?,POS,descending colon,OPEN
+1443,synpic28718.jpg,ABD,Where is the abscess located?,POS,descending colon,OPEN
+1444,synpic56344.jpg,HEAD,Where are the hyperlucencies located?,POS,"thalami, left occipital lobe, brainstem and left cerebellum",OPEN
+1445,synpic56344.jpg,HEAD,Which areas are lighting up?,POS,"thalami, left occipital lobe, brainstem and left cerebellum",OPEN
+1448,synpic33892.jpg,ABD,What organ is involved?,ABN,pancreas,OPEN
+1449,synpic33892.jpg,ABD,Which organ is affected?,ABN,pancreas,OPEN
+1454,synpic52248.jpg,HEAD,What imaging modality was used?,MODALITY,MR - Flair,OPEN
+1455,synpic52248.jpg,HEAD,What type of image modality is this?,MODALITY,MR - Flair,OPEN
+1458,synpic23648.jpg,ABD,What organ is enlarged?,PRES,Spleen,OPEN
+1459,synpic23648.jpg,ABD,Which organ is abnormally large?,PRES,Spleen,OPEN
+1460,synpic53867.jpg,HEAD,What does the enhancing periphery of the mass represent?,PRES,Calcification,OPEN
+1461,synpic53867.jpg,HEAD,What is the outer rim of the mass?,PRES,Calcification,OPEN
+1465,synpic52988.jpg,CHEST,Blunting of the costophrenic angles indicate what condition?,OTHER,pleural effusion,OPEN
+1466,synpic52988.jpg,CHEST,What does the blunting of the costophrenic angles indicate?,OTHER,pleural effusion,OPEN
+1473,synpic19853.jpg,ABD,Which plane is the image in?,PLANE,Axial,OPEN
+1474,synpic52932.jpg,CHEST,What organ system is visualized?,ORGAN,chest,OPEN
+1480,synpic32981.jpg,ABD,What imaging modality was used?,MODALITY,CT,OPEN
+1510,synpic676.jpg,CHEST,What modality is used to take this image?,MODALITY,XR,OPEN
+1546,synpic29048.jpg,CHEST,What part of the body does this radiograph show?,ORGAN,chest,OPEN
+1560,synpic60831.jpg,HEAD,What type of image modality is used?,MODALITY,MRI,OPEN
+1566,synpic17145.jpg,CHEST,What type of imaging is this?,MODALITY,Xray,OPEN
+1575,synpic21776.jpg,CHEST,What organ is superimposed on the lung fields?,ORGAN,Breasts,OPEN
+1585,synpic43609.jpg,ABD,What modality is used in this image?,MODALITY,CT,OPEN
+1613,synpic26248.jpg,CHEST,Which orientation is the image acquired?,PLANE,PA,OPEN
+1617,synpic27655.jpg,CHEST,What imaging modality is used?,MODALITY,Xray,OPEN
+1635,synpic57935.jpg,HEAD,What image plane is this?,PLANE,Axial,OPEN
+1637,synpic100176.jpg,CHEST,What modality was used?,MODALITY,plain film,OPEN
+1648,synpic56344.jpg,HEAD,What modality was used for this image?,MODALITY,MRI,OPEN
+1658,synpic30215.jpg,ABD,What is the image plane?,PLANE,Axial,OPEN
+1661,synpic53574.jpg,HEAD,In what plane is the above image?,PLANE,axial,OPEN
+1666,synpic28987.jpg,CHEST,What imaging modality is used?,MODALITY,plain film xray,OPEN
+1667,synpic22156.jpg,ABD,What plane is the image in?,PLANE,Axial,OPEN
+1681,synpic31928.jpg,HEAD,What type of MR image modality is seen?,MODALITY,T2 weighted,OPEN
+1685,synpic47191.jpg,ABD,In what plane is the CT scan?,PLANE,axial,OPEN
+1696,synpic52282.jpg,HEAD,What type of MRI modality is used?,MODALITY,DWI Diffusion weighted,OPEN
+1711,synpic26697.jpg,ABD,What image modality is used?,MODALITY,CT,OPEN
+1718,synpic58547.jpg,HEAD,What type of contrast agent is used in this MRI?,MODALITY,gadolinium,OPEN
+1732,synpic22794.jpg,ABD,What imaging modality was used?,MODALITY,CT,OPEN
+1736,synpic25758.jpg,ABD,What plane is this image?,PLANE,Axial,OPEN
+1741,synpic53816.jpg,HEAD,What is the intensity signal of CSF?,COLOR,Hypointense,OPEN
+1749,synpic53816.jpg,HEAD,What modality is this image taken?,MODALITY,MRI,OPEN
+1752,synpic39141.jpg,ABD,What imaging modality is seen here?,MODALITY,CT,OPEN
+1754,synpic47964.jpg,HEAD,What plane of section is the brain taken in?,PLANE,Axial,OPEN
+1755,synpic47964.jpg,HEAD,What cut of the brain is this image taken?,PLANE,Axial,OPEN
+1759,synpic58902.jpg,HEAD,How is the CSF enhancement characterized?,COLOR,Non-enhanced,OPEN
+1761,synpic100228.jpg,CHEST,What plane was this chest film taken in?,PLANE,AP,OPEN
+1763,synpic39141.jpg,ABD,What is the section level of this image?,PLANE,Mid abdomen,OPEN
+1764,synpic39141.jpg,ABD,Where is this slice located in the human body?,PLANE,Mid abdomen,OPEN
+1767,synpic32084.jpg,CHEST,What type of radiograph is this?,ORGAN,Chest radiograph,OPEN
+1773,synpic41667.jpg,CHEST,What structure is seen in the left hemidiaphragmatic area?,PRES,Sigmoid Flexture of the Colon,OPEN
+1774,synpic41667.jpg,CHEST,What structure is superimposed on the left hemidiaphragm?,PRES,Sigmoid Flexture of the Colon,OPEN
+1779,synpic59126.jpg,CHEST,Where is the gastric bubble located?,POS,Underneath the right hemidiaphragm,OPEN
+1780,synpic59126.jpg,CHEST,Where is the gastric bubble placed?,POS,Underneath the right hemidiaphragm,OPEN
+1781,synpic32084.jpg,CHEST,What was this image taken with?,MODALITY,X-ray,OPEN
+1782,synpic9872.jpg,HEAD,What is the location of the brain mass?,POS,Posterior fossa,OPEN
+1783,synpic9872.jpg,HEAD,Where is the mass located?,POS,Posterior fossa,OPEN
+1788,synpic100228.jpg,CHEST,What is the location of the three circular opacities?,POS,Stomach,OPEN
+1789,synpic100228.jpg,CHEST,Where are the three circular opacities located?,POS,Stomach,OPEN
+1790,synpic40500.jpg,HEAD,What organ is this image of?,ORGAN,Brain,OPEN
+1793,synpic48714.jpg,HEAD,What brain territory is the hemorrhage located?,POS,Right Sylvian Fissure,OPEN
+1794,synpic48714.jpg,HEAD,Which fissure is the hemorrhage located?,POS,Right Sylvian Fissure,OPEN
+1800,synpic41667.jpg,CHEST,What vein is the central venous catheter located in the patient?,POS,Right Subclavian Vein,OPEN
+1801,synpic41667.jpg,CHEST,Where is the central venous catheter placed?,POS,Right Subclavian Vein,OPEN
+1811,synpic22828.jpg,ABD,What plane of the abdomen is this image?,PLANE,Axial,OPEN
+1816,synpic42157.jpg,ABD,What form of contrast did the patient receive?,MODALITY,Oral and IV,OPEN
+1817,synpic42157.jpg,ABD,What types of contrast did this patient have?,MODALITY,Oral and IV,OPEN
+1820,synpic31232.jpg,ABD,What cut of the body is this image?,PLANE,Axial,OPEN
+1822,synpic59126.jpg,CHEST,How was this film taken?,PLANE,PA,OPEN
+1824,synpic41667.jpg,CHEST,What parts of the lung fields contain the most prominent ground glass opacities?,POS,Lower lung fields,OPEN
+1825,synpic60703.jpg,HEAD,How is the artifact in this image categorized?,PRES,Motion,OPEN
+1826,synpic60703.jpg,HEAD,What type of artifact is shown in this image?,PRES,Motion,OPEN
+1827,synpic42157.jpg,ABD,What is located in the sigmoid colon?,PRES,Diverticuli,OPEN
+1828,synpic42157.jpg,ABD,What are the findings in the sigmoid colon?,PRES,Diverticuli,OPEN
+1829,synpic60703.jpg,HEAD,What brain region demonstrates edema?,"POS, PRES",Basal Ganglia,OPEN
+1830,synpic60703.jpg,HEAD,What area of the brain is edematous?,"POS, PRES",Basal Ganglia,OPEN
+1831,synpic24729.jpg,ABD,What type of plane is this image of?,PLANE,Axial,OPEN
+1832,synpic24729.jpg,ABD,What plane was this image taken in?,PLANE,Axial,OPEN
+1833,synpic22020.jpg,ABD,What is the muscle adjacent to the vertebrae?,PRES,Psoas Major Muscle,OPEN
+1834,synpic22020.jpg,ABD,What muscle surrounds the vertebrae?,PRES,Psoas Major Muscle,OPEN
+1835,synpic53816.jpg,HEAD,What section is this image?,PLANE,Axial,OPEN
+1836,synpic53816.jpg,HEAD,What plane is this image taken?,PLANE,Axial,OPEN
+1840,synpic56841.jpg,HEAD,What cross section of the brain is this image?,PLANE,Axial,OPEN
+1843,synpic48714.jpg,HEAD,What category is the hemmorhage?,PRES,Subarachnoid,OPEN
+1844,synpic48714.jpg,HEAD,What type of hemorrhage is shown?,PRES,Subarachnoid,OPEN
+1849,synpic40500.jpg,HEAD,What modality is this image taken?,MODALITY,MRI,OPEN
+1851,synpic58902.jpg,HEAD,What is the MRI modality depicted in this image?,MODALITY,FLAIR,OPEN
+1852,synpic24729.jpg,ABD,What contrast was administered to this patient?,MODALITY,Oral and IV,OPEN
+1853,synpic24729.jpg,ABD,What types of contrast does this patient have?,MODALITY,Oral and IV,OPEN
+1854,synpic47964.jpg,HEAD,Which half the cerebellum is the largest mass located?,POS,Right,OPEN
+1855,synpic47964.jpg,HEAD,Which side of the cerebellum contains the largest mass?,POS,Right,OPEN
+1856,synpic53816.jpg,HEAD,What organ is this image of?,ORGAN,Brain,OPEN
+1859,synpic47964.jpg,HEAD,What type of modality was this image taken?,MODALITY,MRI - T2 Weighted,OPEN
+1860,synpic47964.jpg,HEAD,What is the MR weighting in this image?,MODALITY,MRI - T2 Weighted,OPEN
+1861,synpic32727.jpg,ABD,Where are the densities identified in the patient?,POS,Posterior to the gastric antrum,OPEN
+1862,synpic32727.jpg,ABD,What are the hyperattenuations located around the patient?,PRES,Ribs,OPEN
+1866,synpic9872.jpg,HEAD,What is the imaging modality?,MODALITY,MR-FLAIR,OPEN
+1867,synpic22828.jpg,ABD,What are the hyperdense lesions noted at the edges of the aorta?,PRES,Calcified atherosclerosis,OPEN
+1868,synpic22828.jpg,ABD,What are the hyperintensities surrounding the aorta?,PRES,Calcified atherosclerosis,OPEN
+1869,synpic42157.jpg,ABD,What are the internal morphologic features of this mass?,ATTRIB,Cystic,OPEN
+1882,synpic31928.jpg,HEAD,What part of the CNS is this image showing?,ORGAN,Brain,OPEN
+1887,synpic31928.jpg,HEAD,What is the sequence of this MRI?,MODALITY,T2-weighted,OPEN
+1888,synpic27198.jpg,ABD,The lesion is located where in this image?,POS,right lobe of the liver,OPEN
+1889,synpic27198.jpg,ABD,Where is the lesion located in this image?,POS,right lobe of the liver,OPEN
+1890,synpic22874.jpg,ABD,In which vessel is calcification present?,POS,Aorta,OPEN
+1891,synpic22874.jpg,ABD,The calcification is located in what vessel?,POS,Aorta,OPEN
+1892,synpic31928.jpg,HEAD,What condition is found in the above image?,ABN,right subdural hematoma,OPEN
+1893,synpic31928.jpg,HEAD,What pathology is seen in this image?,ABN,right subdural hematoma,OPEN
+1894,synpic43609.jpg,ABD,In what organ do you see swelling?,PRES,Appendix,OPEN
+1895,synpic43609.jpg,ABD,What organ is edematous in this image?,PRES,Appendix,OPEN
+1896,synpic47191.jpg,ABD,What pathology is seen in this image?,ABN,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy,OPEN
+1897,synpic47191.jpg,ABD,What is wrong with the patient's scan?,ABN,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy,OPEN
+1898,synpic32012.jpg,ABD,This image is suspicious of what cancerous pathology?,OTHER,hepatocellular carcioma,OPEN
+1899,synpic32012.jpg,ABD,What cancer does this patient have?,OTHER,hepatocellular carcioma,OPEN
+1901,synpic53574.jpg,HEAD,The infarcts seen are most likely what type?,ATTRIB,punctate,OPEN
+1902,synpic53574.jpg,HEAD,What types of infarcts are these most likely?,ATTRIB,punctate,OPEN
+1905,synpic33102.jpg,CHEST,How was this film taken?,PLANE,PA,OPEN
+1908,synpic25587.jpg,CHEST,"On what side of the body is there pathology, and what is it?",ABN,right sided pleural effusion,OPEN
+1909,synpic25587.jpg,CHEST,What is the pathology?,ABN,right sided pleural effusion,OPEN
+1910,synpic25587.jpg,CHEST,What pathology is seen int his image? ,ABN,right sided pleural effusion,OPEN
+1911,synpic25587.jpg,CHEST,What pathology is seen int his image? What side?,"ABN, POS",right sided pleural effusion,OPEN
+1912,synpic25587.jpg,CHEST,On what side of the body is there pathology?,POS,right sided pleural effusion,OPEN
+1913,synpic25587.jpg,CHEST,What side is the pathology?,POS,right sided pleural effusion,OPEN
+1914,synpic60543.jpg,HEAD,The image probably had what incidental finding?,PRES,cavum vergae,OPEN
+1915,synpic60543.jpg,HEAD,What was probably found incidentally on this image?,PRES,cavum vergae,OPEN
+1918,synpic26697.jpg,ABD,What organ system is highlighted by contrast?,ORGAN,GI,OPEN
+1919,synpic31116.jpg,HEAD,Describe the intensity of the abnormality seen in this image? (central vs. surrounding),COLOR,central hyperintensity and surrounding hypointensity,OPEN
+1920,synpic31116.jpg,HEAD,How would you describe the central and surrounding intesities of the abnormality seen?,COLOR,central hyperintensity and surrounding hypointensity,OPEN
+1925,synpic42951.jpg,HEAD,This image is taken in what plane?,PLANE,axial,OPEN
+1926,synpic27198.jpg,ABD,The contrast is enhancing what inside the lesion?,PRES,calcifications,OPEN
+1927,synpic27198.jpg,ABD,What is enhanced by contrast in the lesion?,PRES,calcifications,OPEN
+1928,synpic27198.jpg,ABD,Describe the density of this lesion?,COLOR,"5.6cm focal, predominantly hypodense",OPEN
+1929,synpic27198.jpg,ABD,What is the density of the lesion?,COLOR,"5.6cm focal, predominantly hypodense",OPEN
+1930,synpic27198.jpg,ABD,Describe the size of this lesion?,SIZE,"5.6cm focal, predominantly hypodense",OPEN
+1931,synpic27198.jpg,ABD,What is the size of the lesion?,SIZE,"5.6cm focal, predominantly hypodense",OPEN
+1932,synpic27198.jpg,ABD,Describe the size and density of this lesion?,"SIZE, COLOR","5.6cm focal, predominantly hypodense",OPEN
+1933,synpic27198.jpg,ABD,What is the size and density of the lesion?,"SIZE, COLOR","5.6cm focal, predominantly hypodense",OPEN
+1934,synpic32012.jpg,ABD,What vascular problem is seen above?,ABN,portal vein occlusion,OPEN
+1935,synpic32012.jpg,ABD,What vein is occluded?,PRES,Portal vein,OPEN
+1939,synpic42951.jpg,HEAD,Why are there no sulci seen in this image?,OTHER,there is massive cerebral hemisphere edema,OPEN
+1940,synpic42951.jpg,HEAD,Why do you not see sulci in the image?,OTHER,there is massive cerebral hemisphere edema,OPEN
+1943,synpic47191.jpg,ABD,What plane is this image in?,PLANE,Axial,OPEN
+1949,synpic43609.jpg,ABD,This image is consistent with what condition?,PRES,appendicitis,OPEN
+1950,synpic43609.jpg,ABD,What condition does the patient have?,PRES,appendicitis,OPEN
+1951,synpic31116.jpg,HEAD,In what plane was this image taken?,PLANE,axial,OPEN
+1952,synpic31116.jpg,HEAD,What plane was this image taken in?,PLANE,axial,OPEN
+1953,synpic29048.jpg,CHEST,The image has an abnormality located where?,POS,retrocardiac,OPEN
+1954,synpic29048.jpg,CHEST,Where is the abnormality located in this image?,POS,retrocardiac,OPEN
+1956,synpic32012.jpg,ABD,What is the pathology seen in the spleen?,ABN,nothing,OPEN
+1957,synpic52282.jpg,HEAD,What structure in the left basal ganglia is spared?,ABN,Left thalamus,OPEN
+1958,synpic52282.jpg,HEAD,What is spared in the left basal ganglia?,ABN,Left thalamus,OPEN
+1959,synpic42951.jpg,HEAD,Pathology seen in this image?,ABN,small subdural hematoma with cerebral edema,OPEN
+1960,synpic42951.jpg,HEAD,What is the condition seen in this image?,ABN,small subdural hematoma with cerebral edema,OPEN
+1963,synpic23571.jpg,ABD,Where Is there obstruction present?,POS,proximal aspect of the appendix,OPEN
+1964,synpic23571.jpg,ABD,"Where is obstruction present, if any?",POS,proximal aspect of the appendix,OPEN
+1965,synpic26697.jpg,ABD,Free air is seen where in this image?,POS,adjacent to the appendix,OPEN
+1966,synpic26697.jpg,ABD,Where is the free-air seen in this image?,POS,adjacent to the appendix,OPEN
+1968,synpic52282.jpg,HEAD,The infarction is likely caused by what vessel?,OTHER,left MCA,OPEN
+1969,synpic52282.jpg,HEAD,What vessel is likely the cause of this infarction?,OTHER,left MCA,OPEN
+1973,synpic58547.jpg,HEAD,What would you call the lesions seen?,PRES,MS plaques,OPEN
+1974,synpic58547.jpg,HEAD,What is the name of the lesions seen in this image?,PRES,MS plaques,OPEN
+1978,synpic47191.jpg,ABD,"There is mesenteric lymphadenopathy present, what additional region is seeded?",PRES,peritoneum,OPEN
+1979,synpic47191.jpg,ABD,"We see mesenteric lymphadenopathy in the above image, where else is there cancer?",PRES,peritoneum,OPEN
+1980,synpic53574.jpg,HEAD,What is the vascular distribution of these infarcts?,POS,all three vascular distributions,OPEN
+1981,synpic53574.jpg,HEAD,Where are the infarcts located?,POS,diffuse,OPEN
+1982,synpic58547.jpg,HEAD,The pathology seen in this image is typical of what disease?,OTHER,multiple sclerosis,OPEN
+1983,synpic58547.jpg,HEAD,What disease does the pathology suggest?,OTHER,multiple sclerosis,OPEN
+1984,synpic58547.jpg,HEAD,In what parts of the brain are the lesions located?,POS,cerebrum and lateral ventricles,OPEN
+1985,synpic58547.jpg,HEAD,Where do you see the lesions?,POS,cerebrum and lateral ventricles,OPEN
+1988,synpic42951.jpg,HEAD,Where is the abnormality located?,POS,right convexity,OPEN
+1989,synpic42951.jpg,HEAD,Where is the pathology located?,POS,right convexity,OPEN
+1990,synpic60831.jpg,HEAD,The image shows what abnormality?,ABN,abnormal hyperintensity in the right occipital lobe,OPEN
+1991,synpic60831.jpg,HEAD,What is abnormal in this image?,ABN,abnormal hyperintensity in the right occipital lobe,OPEN
+1995,synpic52932.jpg,CHEST,This image is concerning for what lung pathology?,ABN,pneumonia,OPEN
+1996,synpic52932.jpg,CHEST,What lung pathology is this image concerning for?,ABN,pneumonia,OPEN
+1999,synpic29048.jpg,CHEST,The soft-tissue density seen in this image contains what?,PRES,Air,OPEN
+2000,synpic29048.jpg,CHEST,What is filling the soft-tissue density seen in this image?,PRES,Air,OPEN
+2002,synpic43609.jpg,ABD,From what do you see stranding?,PRES,fat,OPEN
+2003,synpic43609.jpg,ABD,What is stranding in this image?,PRES,fat,OPEN
+2004,synpic60543.jpg,HEAD,The image above shows an abnormality where?,POS,hyperintensity of the left basal ganglia,OPEN
+2005,synpic60543.jpg,HEAD,Where is the abnormality in this image?,POS,hyperintensity of the left basal ganglia,OPEN
+2020,synpic18461.jpg,CHEST,What is happening to the right heart border?,ATRIB,Partial silhouetting,OPEN
+2021,synpic18461.jpg,CHEST,How would you describe the R heart border?,ATTRIB,Partial silhouetting,OPEN
+2022,synpic20260.jpg,ABD,What is the small mass near the left kidney?,PRES,Splenule,OPEN
+2023,synpic20260.jpg,ABD,What is located near the Left kidney,PRES,Splenule,OPEN
+2028,synpic34836.jpg,HEAD,What does the brighter outer ring of the lesion represent?,PRES,necrosis,OPEN
+2029,synpic34836.jpg,HEAD,What is indicated by the bright ring around the lesion?,PRES,necrosis,OPEN
+2030,synpic27601.jpg,ABD,Where in relation to the mass is the left kidney located in this image?,POS,posteriorly,OPEN
+2031,synpic27601.jpg,ABD,Where is the mass located in relation to the left kidney?,POS,posteriorly,OPEN
+2032,synpic19782.jpg,CHEST,On which side is air under the diaphragm?,POS,Right,OPEN
+2037,synpic21604.jpg,ABD,What other organs are present?,PRES,The lungs,OPEN
+2038,synpic17664.jpg,CHEST,Which lung are more markings present in?,POS,Right lung,OPEN
+2039,synpic17664.jpg,CHEST,Where are the most lung markings?,POS,Right lung,OPEN
+2054,synpic47196.jpg,ABD,What are the hypoattenuated round structures surrounding the veterbral column?,PRES,Psoas muscles,OPEN
+2055,synpic47196.jpg,ABD,What are the structures near the vertebral column?,PRES,Psoas muscles,OPEN
+2064,synpic38630.jpg,ABD,the internal gas and enhancing rim suggests what type of lesion?,OTHER,abcess,OPEN
+2065,synpic38630.jpg,ABD,What type of hepatic lesion has internal gas and enhancing rim?,OTHER,abcess,OPEN
+2076,synpic38263.jpg,HEAD,The dark space in the central portion of the image represents what structure(s)?,PRES,lateral ventricles,OPEN
+2077,synpic38263.jpg,HEAD,What do the dark spaces in the center show?,PRES,lateral ventricles,OPEN
+2086,synpic51774.jpg,CHEST,Which way is the trachea deviating in this image?,POS,Left,OPEN
+2094,synpic46539.jpg,CHEST,what is the pathology?,ABN,hydropneumothorax,OPEN
+2095,synpic46539.jpg,CHEST,What is abnormal in this image?,ABN,hydropneumothorax,OPEN
+2096,synpic51383.jpg,HEAD,What vascular territory is the lesion?,POS,Right MCA,OPEN
+2097,synpic51383.jpg,HEAD,In what vascular territory is the lesion located?,POS,Right MCA,OPEN
+2100,synpic22037.jpg,CHEST,What is the foreign body?,PRES,a catheter,OPEN
+2101,synpic22037.jpg,CHEST,Please identify the foreign body.,PRES,a catheter,OPEN
+2112,synpic41325.jpg,HEAD,where is the pathology?,POS,In the cortex and basal ganglia bilaterally,OPEN
+2113,synpic41325.jpg,HEAD,Where is the pathology located?,POS,In the cortex and basal ganglia bilaterally,OPEN
+2118,synpic31259.jpg,CHEST,what is the pathology,ABN,left lobe mass 1.5 x 1.8 cm,OPEN
+2119,synpic31259.jpg,CHEST,What is abnormal in this image?,ABN,left lobe mass 1.5 x 1.8 cm,OPEN
+2122,synpic19853.jpg,ABD,What is the hypodensity on the posteriolateral edge of the left kidney?,PRES,nephroblastomatosis,OPEN
+2123,synpic19853.jpg,ABD,What is seen in the posterolateral L kidney?,PRES,nephroblastomatosis,OPEN
+2132,synpic19114.jpg,CHEST,What are the densities in both mid-lung fields?,PRES,pleural plaques,OPEN
+2133,synpic19114.jpg,CHEST,What do the densities in the lung fields represent?,PRES,pleural plaques,OPEN
+2142,synpic17848.jpg,CHEST,What lung are the pulmonary nodules in?,POS,Bilateral lungs,OPEN
+2143,synpic17848.jpg,CHEST,Where are the nodules located?,POS,Bilateral lungs,OPEN
+2158,synpic17693.jpg,CHEST,Where are the lesions located?,POS,Paratracheal area,OPEN
+2159,synpic17693.jpg,CHEST,Where are the lesions?,POS,Paratracheal area,OPEN
+2162,synpic31394.jpg,CHEST,How would you describe the pathology seen in the above image?,ATTRIB,"Rounded, well-defined pulmonary nodules varying in size and pattern",OPEN
+2163,synpic31394.jpg,CHEST,What is the pathology seen in this image?,ABN,pulmonary nodules,OPEN
+2164,synpic17145.jpg,CHEST,What is the pathology seen above?,ABN,bilateral pleural effusion,OPEN
+2165,synpic17145.jpg,CHEST,What abnormality is seen in this image?,ABN,bilateral pleural effusion,OPEN
+2170,synpic59536.jpg,HEAD,What brain structures would be affected by the lesion in the right frontal area of the brain?,ABN,basal ganglia (caudate and putamen),OPEN
+2171,synpic59536.jpg,HEAD,Which brain structures could be affected by the lesion located in the right frontal brain area?,ABN,basal ganglia (caudate and putamen),OPEN
+2172,synpic56422.jpg,HEAD,Where do we see multiple infarcts in the above image?,POS,Cerebellum,OPEN
+2173,synpic56422.jpg,HEAD,Location of the multiple infarcts?,POS,Cerebellum,OPEN
+2174,synpic27277.jpg,CHEST,What organ system is shown in the above image?,ORGAN,cardiopulmonary,OPEN
+2175,synpic27277.jpg,CHEST,The image shows what organ system?,ORGAN,cardiopulmonary,OPEN
+2182,synpic17675.jpg,CHEST,What indicates there is no pleural effusion present?,PRES,Sharp costophrenic angles,OPEN
+2183,synpic17675.jpg,CHEST,What sign determines the absence of a pleural effusion?,PRES,Sharp costophrenic angles,OPEN
+2188,synpic45544.jpg,HEAD,What lobe is the infarct in?,POS,Right parietal,OPEN
+2189,synpic45544.jpg,HEAD,Which lobe is infarcted,POS,Right parietal,OPEN
+2190,synpic28277.jpg,ABD,What is the organ pictured superior to the aorta?,PRES,horsehoe kidney,OPEN
+2191,synpic28277.jpg,ABD,What is above the aorta in this image?,PRES,horsehoe kidney,OPEN
+2192,synpic56116.jpg,HEAD,Where in the cortex are the lesions present?,POS,Diffuse,OPEN
+2193,synpic56116.jpg,HEAD,Which cerebral cortex contains the lesion?,POS,Diffuse,OPEN
+2202,synpic26413.jpg,CHEST,What indicates there is a consolidation in the right lung?,OTHER,"blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border",OPEN
+2203,synpic26413.jpg,CHEST,What is the observed sign of pulmonary consolidation on the right side?,OTHER,"blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border",OPEN
+2204,synpic18250.jpg,CHEST,Name one abnormality in the radiograph.,ABN,Increased opacity in the left retrocardiac region,OPEN
+2205,synpic18250.jpg,CHEST,What is one abnormality that can be seen in the image?,ABN,Increased opacity in the left retrocardiac region,OPEN
+2206,synpic32081.jpg,CHEST,What is the abnormality?,ABN,Right paratracheal mass lesion,OPEN
+2207,synpic32081.jpg,CHEST,What is wrong in this image?,ABN,Right paratracheal mass lesion,OPEN
+2208,synpic51212.jpg,HEAD,What abnormal findings are present in this image?,ABN,ring-enhancing lesion,OPEN
+2209,synpic51212.jpg,HEAD,What is the lesion in this image?,PRES,ring-enhancing lesion,OPEN
+2216,synpic28987.jpg,CHEST,What is wrong with the aortic area?,ABN,It is enlarged with prominence of the aortic knob,OPEN
+2217,synpic28987.jpg,CHEST,What pathology is shown in the aorta?,ABN,It is enlarged with prominence of the aortic knob,OPEN
+2218,synpic22794.jpg,ABD,How would you describe the mass on the left kidney?,ATTRIB,Well-circumscribed,OPEN
+2219,synpic22794.jpg,ABD,What is the left kidney mass?,PRES,exophytic cyst,OPEN
+2220,synpic23648.jpg,ABD,What is the appearance of the liver?,ATTRIB,Shrunken and nodular,OPEN
+2221,synpic23648.jpg,ABD,how would you describe the liver?,ATTRIB,Shrunken and nodular,OPEN
+2222,synpic56344.jpg,HEAD,What does the hyperlucency indicate?,OTHER,Infarcts,OPEN
+2223,synpic56344.jpg,HEAD,What pathology does the hyperlucency represent?,OTHER,embolus,OPEN
+2230,synpic27142.jpg,HEAD,Where are the hyperintensities located?,POS,Cortical ribbon of right occipital lobe with extension into right posterior temporal lobe,OPEN
+2231,synpic27142.jpg,HEAD,What is the location of the hyperintensitites?,POS,Cortical ribbon of right occipital lobe with extension into right posterior temporal lobe,OPEN
+2233,synpic32981.jpg,ABD,What is the shape of the liver mass?,ATTRIB,infiltrative,OPEN
+2234,synpic53228.jpg,CHEST,How many ribs are superimposed on the lung fields?,COUNT,12,OPEN
+2235,synpic53228.jpg,CHEST,How many ribs are present in vertical order on this chest radiograph,COUNT,12,OPEN
+2246,synpic31232.jpg,ABD,What is the hypodensity located inside the vertebrae?,PRES,Nucleus Pulposus,OPEN
+2247,synpic31232.jpg,ABD,What is the hypo-dense area seen in the vertebrae?,PRES,Nucleus Pulposus,OPEN
