@@ -1,0 +1,14 @@
+# Large files - don't upload to GitHub
+*.zip
+*.jpg
+*.jpeg
+*.png
+venv/
+.venv/
+__pycache__/
+
+# Data files - too large for GitHub
+Images/
+Filtered_Images/
+VQA_RAD_Dataset_Public.json
+VQA_RAD Dataset Public.json
