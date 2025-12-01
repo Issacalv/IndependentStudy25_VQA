@@ -9,7 +9,7 @@ import sys
 sys.path.append('..')
 from src.utils import FlamingoProcessor
 from demo_utils import image_paths, clean_generation
-
+MODEL = os.getenv("MODEL")
 
 def main():
     accelerator = Accelerator() #when using cpu: cpu=True
@@ -19,7 +19,7 @@ def main():
     print('Loading model..')
 
     # >>> add your local path to Llama-7B (v1) model here:
-    llama_path = '../models/llama-7b-hf'
+    llama_path = MODEL
     if not os.path.exists(llama_path):
         raise ValueError('Llama model not yet set up, please check README for instructions!')
 

@@ -10,7 +10,10 @@ image_paths =  [
     'synpic57813.jpg',
     'synpic47964.jpg'
 ]
-image_paths = [os.path.join('../img', p) for p in image_paths]
+
+image_dir = "/raid/ABC123/med-flamingo/img"
+image_paths = [os.path.join(image_dir, p) for p in image_paths]
+
 
     
 
